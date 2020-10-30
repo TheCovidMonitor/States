@@ -1,0 +1,1485 @@
+﻿FID,SCHOOLNAME,Address,CITY,CUMULATIVE_COVID_Students,CUMULATIVE_COVID_Teachers,F30Day_Students,F30Day_Employees
+1,A. C. Flora High,1 Falcon Drive,Columbia,< 5,0,< 5,0
+2,A. C. Moore Elementary,333 Etiwan Avenue,Columbia,0,0,0,0
+3,A. J. Lewis Greenview Elem,726 Easter Street,Columbia,0,0,0,0
+4,A. R. Rucker Middle,422 Old Dixie Road,Lancaster,0,0,0,0
+5,A.J. Whittenburg Elementary,420 Westfield Street,Greeenville,0,0,0,0
+6,Abbeville City Career Center,100 Old Calhoun Falls Highway,Abbeville,0,0,0,0
+7,A. C. Corcoran Elementary,8585 Vistavia Road,North Charleston,0,0,0,0
+8,Abbeville High,701 Washington Street,Abbeville,0,0,0,0
+9,A. L. Corbett Middle,10 A L Corbett Circle,Wagener,0,0,0,0
+10,Abner Creek Academy,2050 Abner Creek Road,Duncan,0,< 5,0,< 5
+11,Academic Magnet High,5109-A West Enterprise Street,North Charleston,< 5,0,< 5,0
+12,Academy for Careers & Tech,2697 East Highway 76,Mullins,0,0,0,0
+13,Academy For Arts/Science/Tech,895 International Drive,Myrtle Beach,0,0,0,0
+14,Acad for Teaching & Learning,109 Hinton Street,Chester,0,0,0,0
+15,Academy of Hope Charter,3521 Juniper Bay Road,Conway,0,0,0,0
+16,Aiken County Career Center,2455 Jefferson Davis Highway,Warrenville,0,0,0,0
+17,Academy for Tech & Academics,5639 Highway 701 North,Conway,0,0,0,0
+18,Aiken Elementary,2050 Pine Log Road,Aiken,0,0,0,0
+19,Aiken High,449 Rutland Drive,Aiken,5,< 5,5,0
+20,Aiken Performing Arts Academy,130 Avery Lane,Aiken,0,0,0,0
+21,Aiken Intermediate,101 Gator Lane,Aiken,0,0,0,0
+22,Aiken Scholars Academy,471 University Parkway,Aiken,0,0,0,0
+23,Airport High,1315 Boston Avenue,West Columbia,< 5,< 5,< 5,< 5
+24,Alcorn Middle,5125 Fairfield Road,Columbia,0,0,0,0
+25,Alexander Elementary,1601 West Bramlett Road,Greenville,0,0,0,0
+26,Alice Drive Elementary,251 Alice Drive,Sumter,0,0,0,0
+27,Alice Drive Middle,40 Miller Road,Sumter,0,0,0,0
+28,Allegro Charter Sch of Music,2731 Gordon Street,North Charleston,0,0,0,0
+29,Allendale Elementary,3305 Allendale-Fairfax Highway,Allendale,0,0,0,0
+30,Allendale Fairfax High,3581 Allendale-Fairfax Highway,Fairfax,< 5,0,< 5,0
+31,Allendale-Fairfax Middle,3581 Allendale-Fairfax Highway,Fairfax,0,0,0,0
+32,Alma Elementary,213 Alma Street,Gaffney,0,0,0,0
+33,Alston Middle,500 Bryan Street,Summerville,0,0,0,0
+34,Alston-Bailey Elementary,820 W 5th N St,Summerville,0,0,0,0
+35,Ambler Elementary,838 Ambler School Rd,Pickens,0,0,0,0
+36,Anderson  Five Charter School,1225 South McDuffie Street,Anderson,0,0,0,0
+37,Anderson Institute of Tech,315 Pearman Dairy Road,Anderson,0,0,0,0
+38,Anderson Mill Elementary,1845 Old Anderson Mill Road,Moore,0,0,0,0
+39,Andrew Jackson High,6925 Kershaw Camden Highway,Kershaw,0,0,0,0
+40,Andrew Jackson Middle,6865 Kershaw Camden Highway,Kershaw,0,0,0,0
+41,Andrews Elementary,13072 County Line Road,Andrews,< 5,0,0,0
+42,Andrews High,12890 County Line Road,Andrews,0,0,0,0
+43,Annie Burnside Elementary,7300 Patterson Road,Columbia,0,0,0,0
+44,Angel Oak Elementary,6134 Chisolm Street,Johns Island,0,0,0,0
+45,Applied Tech Ctr,2399 West Main Street,Rock Hill,0,0,0,0
+46,Arcadia Elementary,375 Spring Street,Spartanburg,0,0,0,0
+47,Arden Elementary,1300 Ashley Street,Columbia,0,0,0,0
+48,Armstrong Elementary,8601 White Horse Road,Greenville,< 5,0,< 5,0
+49,Ashley Ridge High,9800 Delemar Highway,Summerville,0,0,0,0
+50,Ashley River Crtv Arts Elem,1871 Wallace School Road,Charleston,0,0,0,0
+51,Bethel Elementary,6000 Highway 55 East,Clover,0,0,0,0
+52,Bethel Elementary,111 Bethel School Road,Simpsonville,0,0,0,0
+53,Bethel-Hanberry Elementary,125 Boney Road,Blythewood,0,0,0,0
+54,Bethune Elementary,302 Norwood Street East,Bethune,0,0,0,0
+55,Bettis Prep Leadership Acad,69 Nicholson Road,Trenton,0,0,0,0
+56,Black St Early Chood Center,256 Smith Street,Walterboro,0,0,0,0
+57,Black Water Middle,900 East Cox Ferry Road,Conway,0,0,0,0
+58,Blacksburg Elementary,402 Hardin Street,Blacksburg,0,0,0,0
+59,Blacksburg High,201 West Ramseur Drive,Blacksburg,< 5,0,< 5,0
+60,Blacksburg Primary,1010 East Cherokee Street,Blacksburg,0,< 5,0,0
+61,Blacksburg Middle,101 London Street,Blacksburg,0,0,0,0
+62,Blackville-Hilda High,76 Atkins Circle,Blackville,0,0,0,0
+63,Blaney Elementary,1621 Smyrna Road,Elgin,0,0,0,0
+64,Blenheim Middle Sch Discovery,143 Highland Street,Blenheim,0,0,0,0
+65,Blue Ridge Elementary,995 South Oak Street,Seneca,0,0,0,0
+66,Blue Ridge High,2151 Fews Chapel Road,Greer,< 5,0,< 5,0
+67,Blue Ridge Middle,2423 East Tyger Bridge Road,Greer,< 5,0,< 5,0
+68,Bluffton Elementary,160 H. E. McCracken Circle,Bluffton,0,0,0,0
+69,Bluffton High,12 H. E. McCracken Circle,Bluffton,0,0,0,0
+70,Bluffton Middle,30 New Mustang Road,Bluffton,0,0,0,0
+71,Blythe Academy,100 Blythe Drive,Greenville,0,0,0,0
+72,Blythewood High,10901 Wilson Boulevard,Blythewood,0,0,0,0
+73,Blythewood Middle,2351 Longtown Road East,Blythewood,0,0,0,0
+74,Boiling Springs Elementary,700 Double Bridge Road,Boiling Springs,< 5,0,< 5,0
+75,Boiling Springs High,2251 Old Furnace Road,Boiling Springs,< 5,0,< 5,0
+76,Boiling Springs Hi 9 Gr Campus,3655 Boiling Springs Road,Boiling Springs,< 5,0,< 5,0
+77,Boiling Springs Intermediate,2055 Hanging Rock Road,Boiling Springs,< 5,0,< 5,0
+78,Boiling Springs Middle,4801 Highway 9,Inman,0,< 5,0,0
+79,Bookman Road Elementary,1245 Bookman Road,Elgin,0,0,0,0
+80,Boulder Bluff Elementary,400 Judy Drive,Goose Creek,0,0,0,0
+81,Boundary St. Elementary,1406 Boundary St,Newberry,0,0,0,0
+82,Bradley Elementary,3032 Pinebelt Road,Columbia,0,0,0,0
+83,Brennen Elementary,4438 Devereaux Road,Columbia,0,0,0,0
+84,Brewer Middle,1000 Emerald Road,Greenwood,0,0,0,0
+85,Bridge Creek Elementary,121 Bombing Range Road,Elgin,0,0,0,0
+86,Bridges Prep School,555 Robert Smalls Parkway,Beaufort,0,0,0,0
+87,Bridgewater Acad Charter,191 River Landing Boulevard,Myrtle Beach,0,0,0,0
+88,Brashier Middle College,1830 W Georgia Rd,Simpsonville,0,0,0,0
+89,Branchville High,1349 Dorange Rd,Branchville,0,0,0,0
+90,Briggs Elementary,1012 Congaree Drive,Florence,0,0,0,0
+91,Broad River Elementary,474 Broad River Road,Beaufort,0,0,0,0
+92,Brockington Elementary,304 Kemper Street,Timmonsville,0,0,0,0
+93,Brockington Elementary,413 Brockington Road,Darlington,0,0,0,0
+94,Brockman Elementary,2245 Montclair Drive,Columbia,0,0,0,0
+95,Brook Glenn Elementary,2003 East Lee Road,Taylors,0,0,0,0
+96,Brookdale Elementary,394 Brookdale Drive,Orangeburg,< 5,0,< 5,0
+97,Brookland-Cayce Senior High,1300 State Street,Cayce,< 5,0,< 5,0
+98,Brooklyn Springs Elementary,1637 Billings Drive,Lancaster,0,0,0,0
+99,Broome High,381 Cherry Hill Road,Spartanburg,5,0,5,0
+100,Brown's Ferry Elementary,7292 Brown's Ferry Road,Georgetown,0,0,0,0
+101,Carver Elementary,515 North Cashua Drive,Florence,< 5,0,< 5,0
+102,Carolina Voyager Charter,721 Wappoo Road,Charleston,0,0,0,0
+103,Carver-Lyon Elementary,2100 Waverly Street,Columbia,0,0,0,0
+104,Carvers Bay High,13002 Choppee Road,Hemingway,0,0,0,0
+105,Carvers Bay Middle,13000 Choppee Road,Hemingway,0,0,0,0
+106,Carver Middle,467 South Church Street,Spartanburg,0,0,0,0
+107,Castle Heights Middle,2382 Firetower Road,Rock Hill,0,0,0,0
+108,Catawba Ridge High School,1180 Fort Mill Parkway,Fort Mill,0,0,0,0
+109,Catawba Trail Elementary,1080 Old National Highway,Elgin,0,< 5,0,0
+110,Caughman Road Elementary,7725 Caughman Road,Columbia,0,0,0,0
+111,Cayce Elementary,515 Bulldog Blvd,Cayce,0,0,0,0
+112,Cedar Grove Elementary,107 Melvin Lane,Williamston,< 5,0,< 5,0
+113,Cedar Springs Academy,355 Cedar Springs Rd,Spartanburg,0,0,0,0
+114,Center for Adv Tech Studies ,916 Mount Vernon Church Road,Chapin,0,0,0,0
+115,Centerville Elemenetary,1529 Whitehall Road,Anderson,0,< 5,0,< 5
+116,Central Elementary,608 Johnson Road,Central,0,0,0,0
+117,Centerville Elementary,4147 Augusta Highway,Gilbert,< 5,< 5,< 5,< 5
+118,Central Child Development Ctr,414 East Black Street,Rock Hill,0,0,0,0
+119,Central High,200 Zion Church Road,Pageland,< 5,0,< 5,0
+120,Chandler Creek Elementary,301 Chandler Road,Greer,0,0,0,0
+121,Carolina School for Inquiry,7405-A Fairfield Road,Columbia,0,0,0,0
+122,Chapin Elementary,940 Old Bush River Road,Chapin,0,0,0,0
+123,Chapin High,300 Columbia Avenue,Chapin,< 5,< 5,< 5,< 5
+124,Chapin Intermediate,1130 Old Lexington Highway,Chapin,0,< 5,0,< 5
+125,Chapin Middle,11661 Broad River Rd,Chapin,0,< 5,0,< 5
+126,Chapman High,1420 Compton Bridge Road,Inman,5,0,< 5,0
+127,Charles B. DuBose Middle,1005 DuBose School Road,Summerville,0,< 5,0,< 5
+128,Center Adv. Studies - Wando,900 Warrior Way,Mount Pleasant,0,0,0,0
+129,Charles Pinckney Elementary,3300 Thomas Cario Boulevard,Mt. Pleasant,0,0,0,0
+130,Charleston Acceleration Acad,1929 Grimball Rd,Charleston,< 5,0,< 5,0
+131,Charleston Crtr Sch Math & Sci,1002 King Street,Charleston,0,0,0,0
+132,Charleston Development Academy,233 Line Street,Charleston,0,0,0,0
+133,Charleston Progressive,382 Meeting Street,Charleston,0,0,0,0
+134,Chastain Road Elementary,940 Chastain Road,Liberty,0,0,0,0
+135,Cheraw High,649 Chesterfield Highway,Cheraw,< 5,< 5,0,0
+136,Cheraw Intermediate,421 Chesterfield Highway,Cheraw,0,< 5,0,0
+137,Cherokee Trail Elementary,6219 Highway 184 East,Donalds,< 5,< 5,< 5,< 5
+138,Charleston School of the Arts,5109-B West Enterprise Street,North Charleston,0,0,0,0
+139,Cherry Park Elem Sch of Lang,1835 Eden Terrace,Rock Hill,0,0,0,0
+140,Cherrydale Elementary,302 Perry Road,Greenville,0,< 5,0,< 5
+141,Cherryvale Elementary,1420 Furman Drive,Sumter,0,0,0,0
+142,Chesnee Elementary,985 Fairfield Road,Chesnee,< 5,0,< 5,0
+143,Chesnee High,795 South Alabama Avenue,Chesnee,< 5,0,0,0
+144,Chesnee Middle,805 South Alabama Avenue,Chesnee,0,< 5,0,< 5
+145,Chester County Career Center,1324 J. A. Cochran Bypass,Chester,0,0,0,0
+146,Chester Middle,1014 McCandless Road,Chester,0,0,0,0
+147,Chester Senior High,1330 J. A. Cochran Bypass,Chester,0,0,0,0
+148,Chester Park Elem Sch Arts,835-A Lancaster Highway,Chester,0,0,0,0
+149,Chester Park Sch Lit & Tech,835-B Lancaster Highway,Chester,0,0,0,0
+150,Chester Park Sch Elem Inquiry,835-C Lancaster Highway,Chester,0,0,0,0
+151,Augusta Circle Elementary,100 Winyah Street,Greenville,0,0,0,0
+152,Aynor Elementary,516 Jordanville Road,Aynor,0,0,0,0
+153,Aynor High,201 Jordanville Road,Aynor,0,< 5,0,< 5
+154,Aynor Middle,400 Frye Road,Galivants Ferry,0,0,0,0
+155,B. D. Lee Elementary,401 Overbrook Drive,Gaffney,0,0,0,0
+156,Ballentine Elementary,1040 Bickley Road,Irmo,0,< 5,0,< 5
+157,Bamberg-Ehrhardt High,267 Red Raider Drive,Bamberg,< 5,0,< 5,0
+158,Bamberg-Ehrhardt Middle,897 North Street,Bamberg,0,0,0,0
+159,Banks Trail Middle,1640 Banks Road,Fort Mill,0,0,0,0
+160,Baptist Hill High,5117 Baptist Hill Road,Hollywood,0,0,0,0
+161,Barnwell Cnty Career Center,5214 Reynolds Road,Blackville,< 5,0,< 5,0
+162,Barnwell Elementary,10524 Marlboro Avenue,Barnwell,0,0,0,0
+163,Baron Dekalb Elementary,2684 Baron DeKalb Road,Camden,0,0,0,0
+164,Bates Middle,715 Estate Street,Sumter,0,0,0,0
+165,Barnwell High,474 Jackson Street,Barnwell,< 5,0,< 5,0
+166,Barnwell Primary,9286 Marlboro Avenue,Barnwell,0,0,0,0
+167,Batesburg-Leesville Elementary,403 South Lee Street,Batesburg-Leesville,0,0,0,0
+168,Batesburg-Leesville High,600 Summerland Avenue,Batesburg-Leesville,0,0,0,0
+169,Batesburg-Leesville Middle,425 Shealy Road,Batesburg-Leesville,< 5,< 5,< 5,< 5
+170,Battery Creek High,1 Blue Dolphin Drive,Beaufort,0,0,0,0
+171,Bay Road Elem.,1251 Bay Road,Hartsville,0,0,0,0
+172,Beaufort Elementary,1800 Prince Street,Beaufort,0,0,0,0
+173,Beaufort High,84 Sea Island Parkway,Beaufort,< 5,0,< 5,0
+174,Beaufort Middle,2501 Mossy Oaks Boulevard,Beaufort,0,0,0,0
+175,Beaufort-Jasper Acad Excel,80 Lowcountry Drive,Ridgeland,0,0,0,0
+176,Beck Academy,901 Woodruff Road,Greenville,0,0,0,0
+177,Beech Hill Elementary,1001 Beech Hill Road,Summerville,0,< 5,0,< 5
+178,Beech Springs Intermediate,200 South Danzler Road,Duncan,< 5,< 5,< 5,< 5
+179,Beechwood Middle,1340 Highway 378,Lexington,< 5,< 5,< 5,< 5
+180,Bell's Crossing Elementary,804 Scuffletown Road,Simpsonville,0,0,0,0
+181,Belle Hall Elementary,385 Egypt Road,Mt. Pleasant,0,0,0,0
+182,Belleview Elementary,501 Belleview Road,Rock Hill,0,0,0,0
+183,Bells Elementary,12088 Bells Highway,Ruffin,0,0,0,0
+184,Belton Elementary,202 Watkins Street,Belton,0,0,0,0
+185,Belton Honea Path High,11000 Belton-Honea Path Highway,Honea Path,< 5,0,< 5,0
+186,Belton Middle,102 Cherokee Road,Belton,0,0,0,0
+187,Belton Prep,5901 Belton Hwy,Belton,< 5,0,< 5,0
+188,Belvedere Elementary,201 Rhomboid Place,Belvedere,< 5,0,< 5,0
+189,Bennettsville Intermediate,701 Cheraw Street,Bennettsville,0,< 5,0,< 5
+190,Bennettsville Primary,301 Jefferson Street,Bennettsville,< 5,< 5,< 5,< 5
+191,Berea Elementary,100 Berea Drive,Greenville,< 5,0,< 5,0
+192,Berea High,201 Burdine Drive,Greenville,< 5,0,< 5,0
+193,Berea Middle,151 Berea Middle School Road,Greenville,< 5,0,< 5,0
+194,Berkeley County Middle Coll Hi,1001 South Live Oak Drive,Moncks Corner,< 5,0,< 5,0
+195,Berkeley Elementary,715 Highway 6,Moncks Corner,0,0,0,0
+196,Berkeley High,406 West Main Street,Moncks Corner,0,0,0,0
+197,Berkeley Intermediate,777 Stony Landing Road,Moncks Corner,0,0,0,0
+198,Berkeley Middle,320 North Live Oak Drive,Moncks Corner,0,< 5,0,< 5
+199,Berry Shoals Intermediate,300 Shoals Road,Duncan,< 5,0,< 5,0
+200,Bethany Elementary,337 Maynard Grayson Road,Clover,0,0,0,0
+201,Crosswell Elementary,161 School Road,Easley,0,0,0,0
+202,Crowders Creek Elem,5515 Charlotte Highway,Clover,< 5,0,0,0
+203,Busbee Creative Arts Acad,501 Bulldog Boulevard,Cayce,0,0,0,0
+204,Cyber Academy of SC,330 Pelham Rd Suite 101A,Greenville,0,0,0,0
+205,Cyril B. Busbee Elementary,20 A.L. Corbett Circle,Wagener,0,0,0,0
+206,D. R. Hill Middle,1303 Holly Springs Road,Lyman,< 5,0,< 5,0
+207,D. W. Daniel High,140 Blue and Gold Boulevard,Central,0,0,0,0
+208,Dacusville Elementary,200 Cherokee Trail,Easley,< 5,0,< 5,0
+209,Dacusville Middle,899 Thomas Mill Road,Easley,0,0,0,0
+210,Daisy Elementary,2801 Red Bluff Road,Loris,0,0,0,0
+211,Crowfield Academy,240 Westview Blvd,Goose Creek,0,0,0,0
+212,Daniel Morgan Tech Ctr,201 Zion Hill Road,Spartanburg,0,0,0,0
+213,Darlington County Inst of Tech,160 Pinedale Road,Darlington,0,< 5,0,< 5
+214,Darlington High,525 Spring Street,Darlington,0,0,0,0
+215,Darlington Middle,150 Pinedale Drive,Darlington,0,< 5,0,0
+216,Deer Park Middle ,2263 Otranto Rd,North Charleston,< 5,0,< 5,0
+217,Deerfield Elementary,638 Longs Pond Road,Lexington,0,0,0,0
+218,Delmae Elementary,1211 South Cashua Drive,Florence,0,0,0,0
+219,Denmark Olar High,197 Viking Circle,Denmark,0,0,0,0
+220,Denmark-Olar Middle,45 Green Street,Denmark,0,0,0,0
+221,Bishopville Primary,603 N. Dennis Avenue,Bishopville,0,0,0,0
+222,Dent Middle,2721 Decker Boulevard,Columbia,0,0,0,0
+223,Daniel Island School,2365 Daniel Island Drive,Charleston,0,0,0,0
+224,Dewey-Carter Elementary,4937 South Irby Street,Effingham,0,0,0,0
+225,Diamond Hill Elementary,104 Lake Secession Road,Abbeville,0,0,0,0
+226,Dillon County Applied Tech Ctr,1630 East Main Street,Dillon,0,0,0,0
+227,Dillon High,1730 Highway 301 North,Dillon,< 5,0,< 5,0
+228,Discovery Charter of Lancaster,302 West Dunlap Street,Lancaster,0,0,0,0
+229,Denmark-Olar Elementary,1459 Solomon Blatt Boulevard,Denmark,0,0,0,0
+230,Dillon Middle,1803 Joan Drive,Dillon,< 5,0,< 5,0
+231,Dixie High,1 Haynes Street,Due West,0,0,0,0
+232,Doby's Bridge Elementary,1000 Dragon Way,Fort Mill,< 5,0,< 5,0
+233,Doby's Mill Elementary,1964 Fort Jackson Road,Lugoff,0,0,0,0
+234,Donaldson Career Center,100 Vocational Drive,Greenville,0,0,0,0
+235,Dorchester Career & Tech Ctr,507 School House Road,Dorchester,0,0,0,0
+236,Dorman High,1050 Cavalier Way,Roebuck,< 5,< 5,< 5,< 5
+237,Dorman Hi Freshman Campus,1225 Cavalier Way,Roebuck,0,0,0,0
+238,Dover Elementary,1411 Bedford Avenue,North,0,0,0,0
+239,Dr. Eugene Sires Elementary,301 Chandler Creek Rd,Summerville,0,0,0,0
+240,Dr. Phinnize J. Fisher Middle,700 Millennium Boulevard,Greenville,< 5,0,< 5,0
+241,Drayton Mills Elementary,1500 Skylyn Dr,Spartanburg,0,< 5,0,< 5
+242,Drayton Hall Elementary,3138 Ashley River Road,Charleston,0,0,0,0
+243,Draytonville Elementary,2373 Wilkinsville Highway,Gaffney,0,< 5,0,0
+244,Dreher High,3319 Millwood Avenue,Columbia,0,0,0,0
+245,Duncan Chapel Elementary,210 Duncan Chapel Road,Greenville,0,< 5,0,< 5
+246,Duncan Elementary,100 South Danzler Road,Duncan,0,0,0,0
+247,Dutch Fork Elementary,7900 Broad River Road,Irmo,0,0,0,0
+248,Dutch Fork High,1400 Old Tamah Road,Irmo,0,0,0,0
+249,Dutch Fork Middle,1528 Old Tamah Road,Irmo,0,< 5,0,< 5
+250,Dutchman Creek Middle,4757 Mount Gallant Road,Rock Hill,0,0,0,0
+251,Brunson Elementary,34 College Street,Brunson,0,0,0,0
+252,E. B. Morse Elementary,200 Parkview Drive,Laurens,0,< 5,0,< 5
+253,E. L. Wright Middle,2740 Alpine Road,Columbia,0,0,0,0
+254,E. P. Todd School,150 Old Canaan Rd,Spartanburg,< 5,0,0,0
+255,E.B. Ellington Elementary,5540 Old Jacksonboro Road,Ravenel,0,0,0,0
+256,Eagle Nest Elementary,8640 River Oaks Drive,North Charleston,0,0,0,0
+257,Douglas Elementary,215 South East Diggs Road,Trenton,0,0,0,0
+258,Easley High,154 Green Wave Boulevard,Easley,< 5,0,< 5,0
+259,Applied Tech Education Campus,70 Innovation Lane,Camden,0,0,0,0
+260,East Aiken School of the Arts,223 Old Wagener Road,Aiken,0,0,0,0
+261,East Clarendon Middle-High,1101 Pope Street,Turbeville,< 5,< 5,< 5,< 5
+262,East Cooper Montessori Charter,250 Ponsbury Road,Mt. Pleasant,0,0,0,0
+263,East Elementary,901 East Harrison Street,Dillon,< 5,0,< 5,0
+264,East End Elementary,505 East Second Avenue,Easley,< 5,0,0,0
+265,East Link Academy,"78 Global Drive Drive, Suite 200",Greenville,0,0,0,0
+266,East North Street Academy,1720 East North Street,Greenville,< 5,< 5,< 5,< 5
+267,East Point Academy,1401 Leaphart Street,West Columbia,< 5,0,< 5,0
+268,Easterling Primary,600 East Northside Avenue,Marion,0,< 5,0,0
+269,Eastside Elementary,103 Old Colony Road,Clinton,0,0,0,0
+270,Eastside High,1300 Brushy Creek Road,Taylors,< 5,0,< 5,0
+271,Eau Claire High,4800 Monticello Road,Columbia,0,0,0,0
+272,Ebenezer Ave Elem,242 Ebenezer Avenue,Rock Hill,0,0,0,0
+273,Ebenezer Middle,3440 Ebenezer Road,Sumter,0,0,0,0
+274,Ebinport Elementary,2142 India Hook Road,Rock Hill,0,0,0,0
+275,Edgewood Middle,644 South Cambridge Street,Ninety Six,0,0,0,0
+276,Edisto Elementary,136 Woodolive Lane,Orangeburg,0,0,0,0
+277,Edisto High,500 R.M. Foster Drive,Cordova,0,0,0,0
+278,Edisto Primary,3239 Cordova Road,Cordova,0,0,0,0
+279,Edith L. Frierson Elementary,6133 Maybank Highway,Wadmalaw Island,0,0,0,0
+280,Edmund A. Burns Elementary,3750 Dorchester Road,North Charleston,0,0,0,0
+281,Edward E. Taylor Elementary,200 McRae Street,Columbia,0,0,0,0
+282,Edwards Elementary,2411 West Boulevard,Chesterfield,0,0,0,0
+283,Eleanor S. Rice Elementary,1802 East Durst Avenue,Greenwood,< 5,0,< 5,0
+284,Ellen Woodside Elementary,9122 Augusta Road,Pelzer,0,0,0,0
+285,Elloree Elementary,200 Warrior Drive,Elloree,0,0,0,0
+286,Emerald High,150 Bypass 225,Greenwood,< 5,0,< 5,0
+287,Empower Enrich Academy,5000 Broad River Rd,Columbia,0,0,0,0
+288,Enoree Career Center,108 Scalybark Road,Greenville,0,0,0,0
+289,Erwin Elementary,1477 Locustwood Avenue,Lancaster,0,0,0,0
+290,Evaluation & Detention Ctr    ,1731 Shivers Rd,Columbia,0,0,0,0
+291,Fair-Oak Elementary,1964 Oakway Road,Westminster,0,< 5,0,< 5
+292,Fairfax Elementary,734 14th Street East,Fairfax,0,< 5,0,< 5
+293,Estill Elementary,636 Fourth Street,Estill,< 5,< 5,< 5,< 5
+294,Fairforest Elementary,1005 Mount Zion Road,Spartanburg,0,0,0,0
+295,Felton Laboratory Charter Sch,115 Lance Street,Orangeburg,0,< 5,0,< 5
+296,Fairfield Career and Tech Ctr,790 US Highway 321 North,Winnsboro,0,0,0,0
+297,Fennell Elementary,131 Yemassee Highway,Yemassee,0,< 5,0,0
+298,Fairfield Central High,836 US Highway 321 Bypass South,Winnsboro,< 5,0,< 5,0
+299,Fairfield Elementary,175 Medley Road,Winnsboro,0,0,0,0
+300,Fairfield Magnet Math & Sci,1647 US Highway 321 Bypass North,Winnsboro,0,0,0,0
+301,Fairfield Middle,728 US Highway 321 Bypass South,Winnsboro,0,0,0,0
+302,Brunson-Dargan Elementary,400 Wells Street,Darlington,0,0,0,0
+303,Brushy Creek Elementary,1344 Brushy Creek Road,Taylors,0,0,0,0
+304,Bryson Elementary,703 Bryson Drive,Simpsonville,0,0,0,0
+305,Bryson Middle,3657 South Industrial Drive,Simpsonville,0,0,0,0
+306,Buena Vista Elementary,310 South Batesville Road,Greer,0,0,0,0
+307,Buffalo Elementary,733 Main Street,Buffalo,0,< 5,0,< 5
+308,Buford Elementary,1906 North Rocky River Road,Lancaster,0,< 5,0,0
+309,Buford High,4290 Tabernacle Road,Lancaster,0,< 5,0,0
+310,Buford Middle,1890 North Rocky River Road,Lancaster,0,0,0,0
+311,Buist Academy,103 Calhoun Street,Charleston,0,0,0,0
+312,Burgess Elementary,9645 Scipio Lane,Myrtle Beach,0,0,0,0
+313,Burke High,244 President Street,Charleston,0,0,0,0
+314,Burton Pack Elementary,111 Garden Drive,Columbia,0,0,0,0
+315,Butler Academy,710 South 5th Street,Hartsville,0,0,0,0
+316,Byrd Elementary,1225 Weldon Way,Graniteville,0,0,0,0
+317,C. A. Johnson High,2219 Barhamville Road,Columbia,0,0,0,0
+318,C. E. Murray High,222 C. E. Murray Boulevard,Greeleyville,< 5,0,< 5,0
+319,C. E. Murray Middle,222-A C.E. Murray Boulevard,Greeleyville,0,0,0,0
+320,Williams Sch Creative/Sci Arts,3090 Sanders Road,Charleston,0,0,0,0
+321,Cain Elementary,607 First Street,Darlington,0,0,0,0
+322,Bowen's Corner Elementary,1174 Williams Ln,Hanahan,0,0,0,0
+323,Calhoun Academy of the Arts,1520 East Calhoun Street,Anderson,0,< 5,0,< 5
+324,Calhoun County High,150 Saints Avenue,St. Matthews,0,< 5,0,< 5
+325,Calhoun Falls Charter,205 Edgefield Street,Calhoun Falls,0,0,0,0
+326,Camden Elem Creative Arts,416 Laurens Street,Camden,< 5,0,0,0
+327,Camden High,1022 Ehrenclou Road,Camden,9,< 5,9,< 5
+328,Camden Middle,902 McRae Road,Camden,< 5,0,< 5,0
+329,Camp Road Middle,1825 Camp Road,Charleston,0,0,0,0
+330,Campobello-Gramling School,250 Fagan Avenue,Campobello,0,< 5,0,0
+331,Batesburg-Leesville Primary,800 Summerland Avenue,Batesburg-Leesville,0,0,0,0
+332,Cainhoy Elementary,2434 Cainhoy Road,Huger,0,0,0,0
+333,Cane Bay Elementary,1247 Cane Bay Boulevard,Summerville,0,0,0,0
+334,Cane Bay High,1624 State Road,Summerville,< 5,0,< 5,0
+335,Cannons Elementary,1315 Old Converse Road,Spartanburg,< 5,0,< 5,0
+336,Ben Hazel Primary,628 Railroad Avenue West,Hampton,0,0,0,0
+337,Cape Romain Env Ed Charter Sch,1011 Old Cemetery Road,McClellanville,0,0,0,0
+338,Career & Tech Anderson 1 & 2,702 Belton Highway,Williamston,< 5,0,< 5,0
+339,Carlisle-Foster's Grove Elem,625 Foster's Grove Road,Chesnee,0,< 5,0,< 5
+340,Carolina Academy (High),2725 Anderson Road,Greenville,0,0,0,0
+341,Bethune-Bowman Elementary,4857 Charleston Highway,Rowesville,0,0,0,0
+342,Bethune-Bowman Middle/High,4857 Charleston Highway,Rowesville,0,0,0,0
+343,Carolina Elementary,719 West Carolina Avenue,Hartsville,0,0,0,0
+344,Carolina Forest Elementary,285 Carolina Forest Boulevard,Myrtle Beach,0,0,0,0
+345,Carolina Forest High,700 Gardner Lacy Road,Myrtle Beach,0,0,0,0
+346,Cane Bay Middle,1175 Cane Bay Boulevard,Summerville,0,0,0,0
+347,Carolina Park Elementary,3650 Park Ave Blvd,Mt. Pleasant,0,0,0,0
+348,Carolina Springs Elementary,6340 Platt Springs Road,Lexington,0,0,0,0
+349,Carolina Springs Middle,6180 Platt Springs Road,Lexington,< 5,0,0,0
+350,Carver Edisto Middle,2018 Carver School Road,Cope,0,< 5,0,0
+351,Cherokee Charter School,3206 Cherokee Ave,Gaffney,0,0,0,0
+352,Chesterfield High,401 North Page Street,Chesterfield,< 5,0,< 5,0
+353,Chesterfield-Ruby Middle,14445 Highway 9,Chesterfield,0,0,0,0
+354,Chestnut Oaks Middle,1200 Oswego Road,Sumter,0,0,0,0
+355,Chicora Elementary,3795 Spruill Avenue,North Charleston,0,0,0,0
+356,Cheraw Primary,321 High Street,Cheraw,0,0,0,0
+357,Child Dev Ctr at Woods Rd,301 South Dargan Street,Florence,0,0,0,0
+358,Clay Hill Elementary,387 South Railroad Avenue,Ridgeville,0,0,0,0
+359,Chukker Creek Elementary,1830 Chukker Creek Road,Aiken,0,0,0,0
+360,Clear Dot Charter School,2015 Marion Street,Columbia,0,0,0,0
+361,Clemson Elementary,581 Berkeley Drive,Clemson,0,< 5,0,0
+362,Clinton Elementary,110 Clinton School Road,Lancaster,0,0,0,0
+363,Clinton Elementary,800 Chestnut Street,Clinton,< 5,0,< 5,0
+364,Clinton High,18132 Highway 72 East,Clinton,< 5,0,< 5,0
+365,Clinton Middle,800 North Adair Street,Clinton,0,0,0,0
+366,Clio Elementary/Middle,2635 Highway 9 East,Clio,0,0,0,0
+367,Clover High,1625 Highway 55 East,Clover,14,< 5,12,0
+368,Clover Middle,1233 Barrett Road,Clover,< 5,0,< 5,0
+369,Coastal Leadership Acad,3710 Palmetto Pointe Boulevard,Myrtle Beach,0,< 5,0,0
+370,Coastal Montessori Charter,111 Plantation Drive,Pawleys Island,0,0,0,0
+371,College Park Elementary,100 Davidson Drive,Ladson,0,0,0,0
+372,College Park Middle,713 College Park Road,Ladson,0,0,0,0
+373,Clearwater Elementary,4552 Augusta Road,Clearwater,0,0,0,0
+374,Colleton County High,150 Cougar Nation Drive,Walterboro,< 5,0,< 5,0
+375,Colleton County Middle,1379 Tuskegee Airmen Drive,Walterboro,0,0,0,0
+376,Columbia High,1701 Westchester Drive,Columbia,< 5,0,< 5,0
+377,Concord Elementary,2701 Calrossie Road,Anderson,0,0,0,0
+378,Concrete Primary,535 Powdersville Main,Easley,< 5,0,< 5,0
+379,Congaree Elementary,1221 Ramblin' Road,West Columbia,0,0,0,0
+380,Conway Elementary,1101 Snowhill Drive,Conway,0,0,0,0
+381,Conway High,2301 Church Street,Conway,0,0,0,0
+382,Conway Middle,1104 Elm Street,Conway,0,< 5,0,< 5
+383,Cooley Springs-Fingerville Ele,140 Cooley Springs School Road,Chesnee,0,0,0,0
+384,Cooper River Cntr Adv. Studies,1088 East Montague Avenue,North Charleston,0,0,0,0
+385,Coosa Elementary,45 Middle Road,Beaufort,0,< 5,0,< 5
+386,Cope Area Career Center,6052 Slab Landing Road,Cope,0,0,0,0
+387,Corinth Elementary,128 Corinth Road,Gaffney,0,0,0,0
+388,Cottageville Elementary,648 Peirce Road,Cottageville,0,0,0,0
+389,Cotton Belt Elementary,1176 Black Highway,York,0,0,0,0
+390,Cowpens Elementary,341 Foster Street,Cowpens,< 5,0,< 5,0
+391,Cowpens Middle,150 Foster Street,Cowpens,0,0,0,0
+392,Crayton Middle,5000 Clemson Avenue,Columbia,0,0,0,0
+393,Crescent High,9104 Highway 81 South,Iva,< 5,< 5,< 5,< 5
+394,Crestview Elementary,509 American Legion Road,Greer,0,0,0,0
+395,Crestwood High,2000 Oswego Road,Sumter,0,0,0,0
+396,Creek Bridge STEM Academy,6641 South Highway41,Marion,0,0,0,0
+397,Cross Elementary,1325 Ranger Drive,Cross,0,0,0,0
+398,Cross High,1293 Old Highway 6,Cross,0,< 5,0,< 5
+399,CrossRoads Intermediate,6949 St. Andrews Road,Columbia,0,0,0,0
+400,Crosswell Drive Elementary,310 Crosswell Drive,Sumter,0,< 5,0,0
+401,Longleaf Middle,1160 Longreen Parkway,Columbia,0,0,0,0
+402,Finley Road Elementary,1089 Finley Road,Rock Hill,0,0,0,0
+403,Loris Elementary,901 Highway 9 Business East,Loris,0,0,0,0
+404,Fairforest Middle,150 Lincoln Road,Spartanburg,0,< 5,0,0
+405,Loris High,301 Loris Lions Road,Loris,0,0,0,0
+406,Estill High,"1450 Columbia Highway, Suite A",Estill,0,0,0,0
+407,Loris Middle,5209 Highway 66,Loris,0,0,0,0
+408,Estill Middle,"1450 Columbia Highway, Suite B",Estill,0,0,0,0
+409,Lowcountry Leadership Crtr Sch,5139 Gibson Road,Meggett,0,0,0,0
+410,Flat Rock Elementary,115 Thompson Road,Anderson,< 5,0,< 5,0
+411,Lowcountry Montessori Sch,749 Broad River Drive,Beaufort,0,0,0,0
+412,Florence Career Center,126 East Howe Springs Road,Florence,0,0,0,0
+413,Lower Lee Elementary,5142 St. Charles Road,Mayesville,0,0,0,0
+414,Florence Chapel Middle,290 Shoals Road,Duncan,< 5,< 5,< 5,< 5
+415,Lower Richland High,2615 Lower Richland Boulevard,Hopkins,0,0,0,0
+416,Flowertown Elementary,20 King Charles Circle,Summerville,0,< 5,0,< 5
+417,Lucy T. Davis Elementary,201 Westfield Drive,Florence,0,0,0,0
+418,Floyd D. Johnson Tech Ctr,275 Alexander Love Highway,York,0,0,0,0
+419,Beckham High,1560 Mathis Ferry Road,Mount Pleasant,< 5,0,< 5,0
+420,Ford Elementary,601 Lucas Avenue,Laurens,0,0,0,0
+421,Lugoff Elementary,994 Ridgeway Road,Lugoff,0,0,0,0
+422,Forest Acres Elementary,401 McAlister Road,Easley,< 5,0,< 5,0
+423,Lugoff-Elgin High,1284 Highway 1 South,Lugoff,< 5,< 5,< 5,< 5
+424,Forest Heights Elementary,2500 Blue Ridge Terrace,Columbia,0,0,0,0
+425,Lugoff-Elgin Middle,1244 Highway 1 South,Lugoff,0,0,0,0
+426,Forest Hills Elementary,633 Hiers Corner Road,Walterboro,0,0,0,0
+427,Luther L. Vaughan  Elementary,192 Vaughan Road,Gaffney,0,< 5,0,< 5
+428,Forest Lake Elementary,6801 Brookfield Road,Columbia,0,< 5,0,< 5
+429,Forestbrook Elementary,4000 Panthers Parkway,Myrtle Beach,0,0,0,0
+430,Forestbrook Middle,4430 Gator Lane,Myrtle Beach,< 5,0,< 5,0
+431,Fork Shoals School,916 McKelvey Road,Pelzer,0,< 5,0,< 5
+432,Fort Dorchester Elementary,5201 Old Glory Lane,Summerville,0,0,0,0
+433,F. E. Dubose Career Center,3351 Sumter Highway,Manning,0,0,0,0
+434,Fort Dorchester High,8500 Patriot Boulevard,North Charleston,0,< 5,0,< 5
+435,Fort Mill Elementary,192 Springfield Parkway,Fort Mill,< 5,0,< 5,0
+436,Fort Mill High,215 North Highway 21 Bypass,Fort Mill,< 5,0,< 5,0
+437,Fort Mill Middle,200 Springfield Parkway,Fort Mill,0,0,0,0
+438,Forts Pond Elementary,7350 Fish Hatchery Road,Pelion,< 5,< 5,< 5,< 5
+439,Foster Park Elementary,901 Arthur Boulevard,Union,< 5,< 5,< 5,< 5
+440,Fountain Inn Elementary,608 Fairview Street,Fountain Inn,0,0,0,0
+441,Fox Creek Charter High,165 Shortcut Road,North Augusta,< 5,0,< 5,0
+442,Devon Forest Elementary,1127 Dorothy Street,Goose Creek,0,0,0,0
+443,Frances F. Mack Intermediate,161 Gaston Street,Gaston,0,0,0,0
+444,Furman Middle,3400 Bethel Church Road,Sumter,0,< 5,0,< 5
+445,Frank Russell Tech Ctr,601 East Northside Drive,Greenwood,0,0,0,0
+446,Gadsden Elementary,1660 South Goodwin Circle,Gadsden,0,0,0,0
+447,Gaffney High,149 Twin Lake Road,Gaffney,< 5,0,< 5,0
+448,Gaffney Middle,805 East Frederick Street,Gaffney,< 5,< 5,< 5,0
+449,Gallman Elementary,255 Hawkins Road,Newberry,0,< 5,0,< 5
+450,Garrett Academy of Technology,2731 Gordon Street,North Charleston,0,0,0,0
+451,Gateway Elementary,200 Hawkins Road,Travelers Rest,0,< 5,0,< 5
+452,Geiger Elementary,150 T.M. Cook Road,Ridgeway,< 5,0,0,0
+453,Georgetown High,2500 Anthuan Maybank Drive,Georgetown,0,0,0,0
+454,Georgetown Middle,2400 Anthuan Maybank Drive,Georgetown,0,0,0,0
+455,Gilbert Elementary,314 Main Street,Gilbert,< 5,0,< 5,0
+456,Gilbert High,840 Main Street,Gilbert,0,< 5,0,< 5
+457,Gilbert Middle,120 Rikard Circle,Gilbert,< 5,0,< 5,0
+458,Glenview Middle,2575 Old Williamston Road,Anderson,0,< 5,0,< 5
+459,Gloverville Elementary,114 Gloria Rush Circle,Gloverville,0,0,0,0
+460,Gold Hill Elementary,1000 Dave Gibson Boulevard,Fort Mill,0,0,0,0
+461,Gold Hill Middle,1025 Dave Gibson Boulevard,Fort Mill,0,0,0,0
+462,Golden Strip Career & Tech Ctr,1120 East Butler Road,Greenville,0,0,0,0
+463,Faith Christian School,337 Farmington Road,Summerville,0,0,0,0
+464,Foxbank Elementary,169 Foxbank Plantation Blvd,Moncks Corner,0,< 5,0,< 5
+465,John W. Moore Middle,191 Westfield Drive,Florence,0,0,0,0
+466,Harold C. Johnson Elem,400 East Jefferson Street,York,0,0,0,0
+467,Harrisburg Elementary,10251 Harrisburg Road,Indian Land,0,0,0,0
+468,Hartsville High,701 Lewellyn Avenue,Hartsville,0,0,0,0
+469,Hartsville Middle,1427 Fourteenth Street,Hartsville,0,0,0,0
+470,Hamilton Career & Tech Center,445 Oconee Business Parkway,Westminster,0,< 5,0,0
+471,Haut Gap Middle,1861 Bohicket Road,John's Island,0,0,0,0
+472,Heath Springs Elementary,158 Solar Road,Heath Springs,0,0,0,0
+473,HCS Early College High,2050 Highway 501 East Bldg. 400,Conway,0,0,0,0
+474,HCS Scholars Academy,104 Chanticleer Drive East,Conway,0,0,0,0
+475,Hemingway Career & Tech Ctr,1593 Hemingway Highway,Hemingway,0,0,0,0
+476,Hemingway Elementary,160 Baxley Road,Hemingway,0,0,0,0
+477,Hemingway High,402 South Main Street,Hemingway,0,0,0,0
+478,Hemingway MB Lee Middle,400 South Main Street,Hemingway,< 5,0,< 5,0
+479,Hendersonville Elementary,6089 Hendersonville Highway,Walterboro,0,0,0,0
+480,Hanahan High,6015 Murray Drive,Hanahan,5,< 5,5,< 5
+481,Hunter-Kinard-Tyler Elementary,7066 Norway Road,Neeses,0,0,0,0
+482,Gordon Elementary,926 Perry Avenue,Dillon,0,0,0,0
+483,Henry L. Sneed Middle,1102 Ebenezer Road,Florence,< 5,0,0,0
+484,Henry Timrod Elementary,1901 East Old Marion Highway,Florence,0,0,0,0
+485,Herbert A. Wood Elementary,737 Pine Ridge Drive,West Columbia,< 5,0,< 5,0
+486,Heritage Elementary,1592 Geer Highway,Travelers Rest,0,< 5,0,0
+487,Heyward Gibbes Middle,500 Summerlea Drive,Columbia,0,0,0,0
+488,Hickory Grove-Sharon Elem,4901 Hickory Grove Road,Hickory Grove,0,0,0,0
+489,Hickory Tavern Elem/Middle,163 Neely Ferry Road,Gray Court,0,0,0,0
+490,High Point Academy,6655 Pottery Road,Spartanburg,< 5,0,< 5,0
+491,Hillcrest High,3665 South Industrial Drive,Simpsonville,< 5,< 5,< 5,< 5
+492,Hillcrest Middle,510 Garrison Road,Simpsonville,0,0,0,0
+493,Hillcrest Middle,4355 Peach Orchard Road,Dalzell,0,0,0,0
+494,Hilton Head Early Chood,165 Pembroke Drive,Hilton Head Island,0,0,0,0
+495,Hilton Head Island Elementary,30 School Road,Hilton Head Island,0,< 5,0,< 5
+496,Hilton Head Sch for Crtv Arts,10 Bus Drive,Hilton Head Island,0,0,0,0
+497,Hilton Head Island High,70 Wilborn Road,Hilton Head Island,< 5,< 5,< 5,< 5
+498,Hilton Head Island Middle,55 Wilborn Road,Hilton Head Island,0,0,0,0
+499,High Hills Elementary,4971 Frierson Road,Shaw Air Force Base,0,0,0,0
+500,Hodges Elementary,4717 Main Street,Hodges,0,0,0,0
+501,Hollis Academy,200 Goodrich Street,Greenville,0,0,0,0
+502,Holly Hill Elementary,1490 Brant Avenue,Holly Hill,0,0,0,0
+503,Holly Hill-Roberts Middle,530 Hesseman Street,Holly Hill,0,0,0,0
+504,Holly Springs-Motlow Elem,325 Motlow School Road,Campobello,0,0,0,0
+505,Hollywood Elementary,1261 Hollywood Road,Saluda,0,0,0,0
+506,Homeland Park Primary,3519 Wilmont Street,Anderson,0,0,0,0
+507,Homewood Elementary,108 North Clemson Circle,Conway,0,0,0,0
+508,Honea Path Elementary,806 East Greer Street,Honea Path,< 5,0,< 5,0
+509,Honea Path Middle,107 Brock Avenue,Honea Path,0,0,0,0
+510,Hopkins Elementary,6120 Cabin Creek Road,Hopkins,0,< 5,0,< 5
+511,Hopkins Middle,1601 Clarkson Road,Hopkins,0,0,0,0
+512,Horrell Hill Elementary,517 Horrell Hill Road,Hopkins,0,0,0,0
+513,Horse Creek Academy,1200 Toolebeck Road,Aiken,< 5,< 5,0,0
+514,Hanahan Middle,5815 Murray Drive,Hanahan,0,< 5,0,< 5
+515,Hughes Academy of Sci & Tech,122 DeOyley Avenue,Greenville,0,0,0,0
+516,Hunt Meadows Elementary,420 Hunt Road,Easley,0,0,0,0
+517,Hunter Street Elementary,1100 Hunter Street,York,0,0,0,0
+518,Lyman Elementary,1221 Holly Springs Road,Lyman,0,0,0,0
+519,Johnakin Middle,601 Gurley Street,Marion,0,0,0,0
+520,Hunter-Kinard-Tyler High,7066 Norway Road,Neeses,0,0,0,0
+521,M. B. Kennedy Middle,274 East Pine Log Road,Aiken,0,0,0,0
+522,Johnson Middle,304 Kemper Street,Timmonsville,0,0,0,0
+523,Hyatt Park Elementary,4200 Main Street,Columbia,0,0,0,0
+524,Lowcountry Leadership,5139-A Gibson Rd,Hollywood,0,0,0,0
+525,Johnsonville Elementary,160 East Marion Street,Johnsonville,0,0,0,0
+526,Hunley Park Elementary,1000 Michigan Avenue,North Charleston,0,0,0,0
+527,M. S. Bailey Child Devel Ctr,605 Elizabeth Street,Clinton,< 5,0,< 5,0
+528,Johnsonville High,237 South Georgetown Highway,Johnsonville,< 5,0,< 5,0
+529,Independence Elem,132 West Springdale Road,Rock Hill,0,0,0,0
+530,Howe Hall AIMS Elementary,115 Howe Hall Road,Goose Creek,0,0,0,0
+531,Johnsonville Middle,415 Maple Avenue,Johnsonville,0,0,0,0
+532,India Hook Elementary,2068 Yukon Drive,Rock Hill,< 5,0,< 5,0
+533,Main Street Elementary,318 East Main Street,Lake City,0,0,0,0
+534,Johnston Elementary,514 Lee Street,Johnston,0,0,0,0
+535,Indian Land Elementary,4137 Doby's Bridge Road,Indian Land,< 5,0,< 5,0
+536,Macedonia Elementary,556 Jones Bridge Road,Blackville,0,0,0,0
+537,Johnston-Edgefield-Trenton Mid,1095 Columbia Road,Johnston,0,0,0,0
+538,Jonesville Elementary,350 New Hope Church Road,Jonesville,0,0,0,0
+539,Joseph Keels Elementary,7500 Springcrest Drive,Columbia,0,0,0,0
+540,Joseph R. Pye Elementary,9701 Patriot Boulevard,Ladson,0,0,0,0
+541,Joseph S. Shanklin Elementary,121 Morrall Drive,Beaufort,0,0,0,0
+542,Kelly Mill Middle,1141 Kelly Mill Road,Blythewood,0,0,0,0
+543,Kelly Edwards Elementary,1071 Elko Street,Williston,0,< 5,0,< 5
+544,Kelly Miller Elementary,255 Kelly Miller Road,Winnsboro,0,0,0,0
+545,Kenneth Gardner Elementary,1503 Woodland Drive,Kingstree,0,0,0,0
+546,Kensington Elementary,86 Kensington Boulevard,Georgetown,0,0,0,0
+547,Keowee Elementary,7051 Keowee School Road,Seneca,< 5,0,< 5,0
+548,Kershaw Elementary,108 North Rollins Drive,Kershaw,< 5,0,< 5,0
+549,Killian Elementary,2621 Clemson Road,Columbia,0,0,0,0
+550,Kinard Elementary,201 Pressly Street,Clover,0,0,0,0
+551,Kings Town Elem.,1774 Masons Bend Dr,Fort Mill,0,0,0,0
+552,Kingsbury Elementary,825 Kingsbury Road,Sumter,0,0,0,0
+553,Kingston Elementary,4580 Highway 472,Conway,0,< 5,0,< 5
+554,Kingstree Middle Magnet,710 Third Avenue,Kingstree,0,0,0,0
+555,Kingstree Senior High,615 Martin Luther King Avenue,Kingstree,0,0,0,0
+556,Knightsville Elementary,847 Orangeburg Road,Summerville,0,0,0,0
+557,L. B. Nelson Elementary,225 North Brickyard Road,Columbia,< 5,0,0,0
+558,L. E. Gable Middle,198 Ott Shoals Road,Roebuck,< 5,0,0,0
+559,L. W. Conder Elementary,8040 Hunt Club Road,Columbia,0,0,0,0
+560,La France Elementary,550 Willliams Street,Pendleton,0,0,0,0
+561,Ladson Elementary,3321 Ladson Road,Ladson,< 5,0,< 5,0
+562,Lady's Island Elementary,73 Chowan Creek Bluff,Beaufort,0,0,0,0
+563,Lady's Island Middle,30 Cougar Drive,Beaufort,0,0,0,0
+564,Lake Carolina Elem/Lower,1151 Kelly Mill Road,Blythewood,0,0,0,0
+565,Lake Carolina Elem/Upper,1261 Kelly Mill Road,Blythewood,0,0,0,0
+566,Laing Middle,1560 Mathis Ferry Road,Mt. Pleasant,< 5,0,< 5,0
+567,Lake City Early Chood Ctr,906 Matthews Road,Lake City,0,< 5,0,< 5
+568,Lake City High,652 North Matthews Road,Lake City,0,0,0,0
+569,Lake Forest Elementary,16 Berkshire Avenue,Greenville,0,0,0,0
+570,Lake Marion Sch & Tech Ctr,3656 Tee Vee Road,Santee,0,0,0,0
+571,Lake Murray Elementary,1531 Three Dog Road,Chapin,0,0,0,0
+572,Lake Murray Elementary,205 Wise Ferry Road,Lexington,0,0,0,0
+573,Lake View Elementary,1311 Scott Street,Lake View,0,0,0,0
+574,Lake View High,401 East Third Avenue,Lake View,0,0,0,0
+575,Lakes and Bridges Charter,1600 E Main Street ,Easley,0,0,0,0
+576,Lakeview Elementary,660 Center Street,Greenwood,< 5,< 5,< 5,< 5
+577,Lakeview Middle,3801 Old Buncombe Road,Greenville,0,0,0,0
+578,Lakewood Elementary,1675 Highway 396,Myrtle Beach,0,0,0,0
+579,Lakewood High,350 Old Manning Road,Sumter,0,0,0,0
+580,Goucher Elementary,604 Goucher School Road,Gaffney,< 5,0,< 5,0
+581,Marion Intermediate,2320 SC-41 ALT,Marion,< 5,0,0,0
+582,Indian Land High,8063 River Road,Indian Land,< 5,0,0,0
+583,Indian Land Middle,8361 Charlotte Highway,Indian Land,0,0,0,0
+584,Indian Land Intermediate,8361 Charlotte Hwy,Indian Land,0,0,0,0
+585,McBee High,264 East Pine Street,McBee,< 5,0,< 5,0
+586,Inman Intermediate,10 West Miller Street,Inman,0,0,0,0
+587,McCants Middle,2123 Marchbanks Avenue,Anderson,0,0,0,0
+588,SC Gov Sch Science & Math,401 Railroad Ave,Hartsville,0,0,0,0
+589,Institute of Innovation,175  Campus Drive,Gaffney,0,0,0,0
+590,McCormick Elementary,6977 Highway 28 South,McCormick,0,0,0,0
+591,Graniteville Elementary,1 Willis Cir,Graniteville,< 5,0,< 5,0
+592,Inman Elementary,25 Oakland Avenue,Inman,0,0,0,0
+593,Irmo Elementary,7401 Gibbes Street,Irmo,0,< 5,0,< 5
+594,Irmo High,6671 St. Andrews Road,Columbia,0,< 5,0,< 5
+595,Irmo Middle,6051 Wescott Road,Columbia,0,0,0,0
+596,Iva Elementary,803 Antreville Highway,Iva,0,< 5,0,< 5
+597,J. C. Lynch Elementary,124 Hicks Road,Coward,0,0,0,0
+598,J. D. Lever Elementary,2404 Columbia Highway,Aiken,0,0,0,0
+599,J. Harley Bonds Career Center,505 North Main Street,Greer,0,0,0,0
+600,Henry E. Bonner Elementary,171 Macedonia Foxes Circle,Moncks Corner,0,0,0,0
+601,J. L. Cain Elem.,607 First Street,Darlington,0,0,0,0
+602,J. L. Mann High Academy,160 Fairforest Way,Greenville,0,0,0,0
+603,J. P. Thomas Elementary,6001 Weston Avenue,Columbia,0,0,0,0
+604,Truluck Crtv Arts & Sci Magnet,319 Carlyle St,Lake City,0,0,0,0
+605,Jackson Elementary,1730 Jefferson Davis Highway,Camden,0,0,0,0
+606,James Byrnes Freshman Acad,100 Rowe Street,Duncan,< 5,0,< 5,0
+607,James F. Byrnes High,150 East Main Street,Duncan,< 5,< 5,< 5,0
+608,James H. Hendrix  Elementary,1084 Springfield Road,Boiling Springs,0,0,0,0
+609,James H. Spann Elementary,901 John McKissick Way,Summerville,< 5,0,< 5,0
+610,Jackson Creek Elementary,7150 Trenholm Rd Exn,Columbia,0,0,0,0
+611,Jackson Middle,18371 Atomic Road,Jackson,0,0,0,0
+612,James B. Edwards Elementary,885 Von Kolnitz Road,Mt. Pleasant,0,0,0,0
+613,James Island Elementary,1872 Grimball Road,Charleston,< 5,0,< 5,0
+614,James Island Charter High,1000 Fort Johnson Road,Charleston,0,0,0,0
+615,James Island Middle,1484 Camp Rd,Charleston,0,0,0,0
+616,James M. Brown Elementary,225 Coffee Road,Walhalla,< 5,0,< 5,0
+617,James Simons Montessori,741 King Street,Charleston,0,0,0,0
+618,Jane Edwards Elementary,1960 Jane Edwards Road,Edisto Island,0,0,0,0
+619,Jefferson Elementary,170 Flint Drive,Warrenville,< 5,0,< 5,0
+620,Jefferson Elementary,809 West Elizabeth Street,Jefferson,0,< 5,0,< 5
+621,Jefferson Elementary,1543 Chester Highway,York,0,0,0,0
+622,Jennie Moore Elementary,942 Whipple Road,Mt. Pleasant,0,0,0,0
+623,Jerry Zucker Middle Sch of Sci,6401 Dorchester Road,North Charleston,< 5,< 5,< 5,< 5
+624,Jesse Boyd Elementary,1505 Fernwood-Glendale Road,Spartanburg,< 5,0,< 5,0
+625,Jesse S. Bobo Elementary,495 Powell Mill Road,Spartanburg,0,0,0,0
+626,Joanna-Woodson Elementary,510 South Elllis Street,Joanna,0,0,0,0
+627,John C. Calhoun Elementary,750 North Calhoun Shores Parkway,Calhoun Falls,0,0,0,0
+628,John de la Howe School for Agriculture,192 Gettys Road,McCormick,0,0,0,0
+629,John E. Ewing Middle,171 East Junior High Road,Gaffney,0,0,0,0
+630,Malcolm C. Hursey Montessori,4542 Simms Street,North Charleston,< 5,< 5,< 5,< 5
+631,Grassy Pond Elementary,1146 Boiling Springs Highway,Gaffney,0,0,0,0
+632,Mamie Whitesides Elementary,1565 Rifle Range Road,Mt. Pleasant,< 5,0,< 5,0
+633,Gray Collegiate Acad,3833 Leaphart Road,West Columbia,0,0,0,0
+634,McColl Elementary/Middle,700 North Main Street,McColl,< 5,< 5,< 5,< 5
+635,Long Middle,1010 West Green Street,Cheraw,0,0,0,0
+636,Gray Court-Owings Elem/Middle,9210 Highway 14,Gray Court,0,< 5,0,< 5
+637,McCormick Elementary,1123 Sandy Bluff Road,Mullins,0,0,0,0
+638,Manchester Elementary,200 East Clark Street,Pinewood,0,< 5,0,0
+639,Great Falls Elementary,301 Dearborn Street,Great Falls,0,0,0,0
+640,McCormick High,6981 SC Highway 28 South,McCormick,0,0,0,0
+641,Manning Early Chood Center,2759 Raccoon Road,Manning,< 5,0,< 5,0
+642,Great Falls High,409 Sunset Avenue,Great Falls,0,0,0,0
+643,Greeleyville Elementary,7 Varner Avenue,Greeleyville,0,0,0,0
+644,McCormick Middle,6979 Highway 28 South,McCormick,0,0,0,0
+645,McCracken Middle,300 Webber Road,Spartanburg,< 5,0,< 5,0
+646,McDonald Elementary,532 McDonald Road,Georgetown,0,0,0,0
+647,GREEN Charter School,211 Century Drive,Greenville,0,0,0,0
+648,Manning Elementary,311 West Boyce Street,Manning,0,0,0,0
+649,Green Charter Sch Spartanburg,8150 Warren H. Abernathy Highway,Spartanburg,< 5,0,0,0
+650,McDonald Green Elementary,2763 Lynwood Drive,Lancaster,0,0,0,0
+651,Manning High,2155 Paxville Highway,Manning,0,0,0,0
+652,GREEN Charter Sch of Midlands,7820 Broad River Rd,Irmo,0,0,0,0
+653,McKissick Elementary,156 McKissick Road,Easley,0,0,0,0
+654,Manning Junior High,1101 W.L. Hamilton Road,Manning,0,0,0,0
+655,Greenbrier Elementary,853 Log Shoals Road,Greenville,0,0,0,0
+656,McLaurin Elementary,1400 McMillan Lane,Florence,0,0,0,0
+657,Manning Primary,125 North Boundary Street,Manning,0,0,0,0
+658,Green Sea Floyds Elementary,5000 Tulip Grove Road,Green Sea,0,0,0,0
+659,McLees Elementary,4900 Dobbins Bridge Road,Anderson,0,< 5,0,< 5
+660,Marion-Mullins Avc            ,,,0,0,0,0
+661,Green Sea Floyds High,4990 Tulip Grove Road,Green Sea,0,0,0,0
+662,Meadow Glen Elementary,510 Ginny Lane,Lexington,0,0,0,0
+663,Marion High,1205 South Main Street,Marion,0,< 5,0,< 5
+664,Greendale Elementary,505 South Boundary Avenue,New Ellenton,< 5,0,< 5,0
+665,Meadow Glen Middle,440 Ginny Lane,Lexington,< 5,0,< 5,0
+666,Marlboro County High,951 Fayetteville Avenue,Bennettsville,< 5,0,< 5,0
+667,Greenville Middle Academy,339 Lowndes Avenue,Greenville,0,0,0,0
+668,Meadowfield Elementary,525 Galway Lane,Columbia,0,0,0,0
+669,J. K. Gourdin Elementary,1649 Highway 45,Pineville,0,0,0,0
+670,Greenville Senior High Acad,1 Vardry Street,Greenville,0,0,0,0
+671,Mellichamp Elementary,350 Murray Road,Orangeburg,0,0,0,0
+672,Macedonia Middle,200 Macedonia Foxes Circle,Moncks Corner,< 5,0,< 5,0
+673,Greenville Tech Charter Hi Sch,506 S Pleasantburg Dr,Greenville,< 5,0,< 5,0
+674,Meeting Street Elementary,2685 Leeds Street,North Charleston,0,0,0,0
+675,Marshall Elementary,1441 Marshall Street,Orangeburg,0,< 5,0,< 5
+676,Greenwood Early Chood Ctr,1125 East Cambridge Avenue,Greenwood,< 5,0,< 5,0
+677,Memminger Elementary,20 Beaufain Street,Charleston,0,0,0,0
+678,Marshall Primary,218 Bannister Street,Belton,< 5,0,< 5,0
+679,Greenwood Elementary,2300 East Howe Springs Road,Florence,0,0,0,0
+680,Merriwether Elementary,565 Spring Haven Drive,North Augusta,0,0,0,0
+681,Mary Bramlett Elementary,301 Spruce Street,Gaffney,0,< 5,0,0
+682,Greenwood High,1816 Cokesbury Road,Greenwood,5,0,5,0
+683,Merriwether Middle,430 Murrah Road,North Augusta,0,0,0,0
+684,Mary Ford Elementary,3180 Thomasina McPerson Boulevard,North Charleston,0,0,0,0
+685,Greer High,3000 East Gap Creek Road,Greer,0,< 5,0,< 5
+686,Merrywood Elementary,329 Deadfall Road West,Greenwood,< 5,0,0,0
+687,Mary H. Wright Elementary,457 South Church Street,Spartanburg,< 5,0,< 5,0
+688,Greer Middle,3032 East Gap Creek Road,Greer,< 5,0,< 5,0
+689,Marrington Elementary,101 Gearing Street,Goose Creek,0,0,0,0
+690,Maryville Elementary,2125 Poplar Street,Georgetown,0,0,0,0
+691,Greer Middle Coll Charter Hi,138 West McElhaney Road,Taylors,0,0,0,0
+692,Meyer Ctr for Special Children,1132 Rutherford Rd,Greenville,0,< 5,0,< 5
+693,Mathews Elementary,725 Marshall Road,Greenwood,0,0,0,0
+694,Greg Mathis Charter High,2872 Azalea Drive,Charleston,0,0,0,0
+695,Michael C. Riley Elementary,200 Burnt Church Road,Bluffton,0,0,0,0
+696,Mid-Carolina High,377 Cy Schumpert Road,Prosperity,7,0,6,0
+697,Meeting St Acad/Spartanburg,201 E Broad St #110,Spartanburg,< 5,0,< 5,0
+698,Middle School of Pacolet,850 Sunny Acres Road,Pacolet,0,0,0,0
+699,Midland Elementary,3011 Nichols Highway,Galivants Ferry,< 5,0,< 5,0
+700,Midland Valley High,227 Mustang Drive,Graniteville,< 5,0,< 5,0
+701,Midland Park Primary,2415 Midland Park Road,North Charleston,0,0,0,0
+702,Midlands Arts Conservatory,3806 N Main St,Columbia,< 5,0,< 5,0
+703,Midlands Middle College,1260 Lexington Drive,West Columbia,0,0,0,0
+704,Midlands STEM Institute,112 Crane Street,Winnsboro,0,0,0,0
+705,Midway Elementary ,1221 Harriett Circle,Anderson,0,0,0,0
+706,Midway Elementary,1892 Highway 1 North,Cassatt,0,0,0,0
+707,Midway Elementary,180 Midway Road,Lexington,< 5,0,< 5,0
+708,Mill Creek Elementary,925 Universal Drive,Columbia,0,0,0,0
+709,McCrorey-Liston School of Tech,1978 SC Highway 215 South,Blair,0,0,0,0
+710,Military Magnet Academy,2950 Carner Avenue,North Charleston,0,0,0,0
+711,Millbrook Elementary,255 East Pine Log Road,Aiken,0,0,0,0
+712,Mid-Carolina Middle,6834 US Highway 76,Prosperity,0,0,0,0
+713,Millwood Elementary,24 Pinewood Road,Sumter,0,0,0,0
+714,Minnie Hughes Elementary,8548 Willtown Road,Younges Island,< 5,< 5,< 5,0
+715,Mitchell Elementary,2 Perry Street,Charleston,0,0,0,0
+716,Mitchell Road Elementary,4124 East North Street Extension,Greenville,0,0,0,0
+717,Monarch Elementary,224 Five Forks Road,Simpsonville,0,0,0,0
+718,Monarch Elementary,218 Monarch School Drive,Union,0,0,0,0
+719,Monaview Elementary,10 Monaview Street,Greenville,0,0,0,0
+720,Matilda Dunston Elementary,1825 Remount Road,North Charleston,0,0,0,0
+721,Mauldin Elementary,1194 Holland Road,Simpsonville,< 5,0,< 5,0
+722,Mauldin High,701 East Butler Road,Mauldin,< 5,0,< 5,0
+723,Mauldin Middle,1190 Holland Road,Simpsonville,< 5,0,< 5,0
+724,May River High,601 New riverside Rd,Bluffton,< 5,< 5,< 5,< 5
+725,Mayo High for Math/Sci/Tech,405 Chestnut Street,Darlington,0,0,0,0
+726,McBee Elementary,284 East Maple Avenue,McBee,0,0,0,0
+727,Mayo Elementary,1300 Springdale Road,Mayo,0,0,0,0
+728,Gregg Middle,500 Green Wave Boulevard,Summerville,0,< 5,0,< 5
+729,Griggs Road Elementary,100 Griggs Road,Clover,0,0,0,0
+730,Grove Elementary,1220 Old Grove Road,Piedmont,0,0,0,0
+731,Guinyard-Butler Middle,779 Allen Street,Barnwell,< 5,0,< 5,0
+732,H. B. Rhame Elementary,1300 Arrowwood Drive,Columbia,0,0,0,0
+733,Swofford Career Center,5620 Highway 11,Inman,0,0,0,0
+734,H. E. Corley Elementary,1500 Chadford Road,Irmo,0,0,0,0
+735,H. E. McCracken Middle,250 H. E. McCracken Circle,Bluffton,0,0,0,0
+736,Hagood Elementary,435 Sparks Ln,Pickens,0,0,0,0
+737,Hammond Hill Elementary,901 West Woodlawn Avenue,North Augusta,0,< 5,0,0
+738,Hampton Elementary,505 Hoover Street,Hampton,0,0,0,0
+739,Goose Creek High,1137 Red Bank Road,Goose Creek,0,< 5,0,< 5
+740,Goose Creek Primary,200 Foster Creek Road,Goose Creek,< 5,5,< 5,< 5
+741,Hanahan Elementary,4000 Mabeline Road,Hanahan,0,< 5,0,0
+742,Hand Middle,2600 Wheat Street,Columbia,0,< 5,0,0
+743,Hannah Pamplico High,2055 South Pamplico Highway,Pamplico,0,0,0,0
+744,Hannah-Pamplico Elem/Mid,2131 South Pamplico Highway,Pamplico,< 5,0,< 5,0
+745,Harbison West Elementary,257 Crossbow Drive,Columbia,0,0,0,0
+746,Hardeeville Elementary,150 Hurricane Alley,Hardeeville,0,0,0,0
+747,Hardeeville-Ridgeland Middle,150 Hurricane Alley,Hardeeville,0,0,0,0
+748,Harleyville Elementary,1650 East Main Street,Dorchester,0,0,0,0
+749,Harleyville-Ridgeville Middle,1650 East Main Street,Dorchester,0,< 5,0,< 5
+750,Harbor View Elementary,1576 Harborview Drive,Charleston,< 5,0,< 5,0
+751,Lamar Elementary,214 North Darlington Avenue,Lamar,0,0,0,0
+752,Lamar High,216 North Darlington Avenue,Lamar,< 5,0,< 5,0
+753,Lamar-Spaulding Elem.,5232 Lamar Highway 401,Lamar,0,0,0,0
+754,Lambs Elementary,6800 Dorchester Road,North Charleston,0,0,0,0
+755,Lancaster CSD Career Center,300 Catawba St,Lancaster,0,0,0,0
+756,Lancaster High,617 Normandy Road,Lancaster,< 5,0,< 5,0
+757,Landrum Middle,104 Redland Road,Landrum,0,0,0,0
+758,Langford Elementary,480 Langford Road,Blythewood,0,0,0,0
+759,Langley-Bath-Clearwater Middle,29 Lions Trail,Warrenville,< 5,0,< 5,0
+760,Langston Charter Middle,1950 Woodruff Road,Greenville,0,0,0,0
+761,Larne Elementary,3598 Filbert Highway,Clover,< 5,< 5,< 5,< 5
+762,Latta Elementary,300 Viking Drive,Latta,0,0,0,0
+763,Latta High,618 North Richardson Street,Latta,< 5,0,< 5,0
+764,Latta Middle,612 North Richardson Street,Latta,0,0,0,0
+765,Laurel Hill Primary,3100 Thomas Cario Boulevard,Mt. Pleasant,0,0,0,0
+766,Laurens District 55 High,5058 Highway 76 West,Laurens,0,< 5,0,< 5
+767,Laurens Elementary,301 Henry Street,Laurens,0,0,0,0
+768,Laurens Middle,1035 West Main Street,Laurens,0,0,0,0
+769,Lead Academy,804 Mauldin Road,Greenville,0,0,0,0
+770,League Academy,125 Twin Lake Drive,Greenville,0,0,0,0
+771,Leaphart Elementary,120 Piney Grove Road,Columbia,0,0,0,0
+772,Leavelle McCampbell Middle,1120 Weldon Way,Graniteville,0,0,0,0
+773,Lee Central High,1800 Wisacky Highway,Bishopville,0,0,0,0
+774,Lee County Career & Tech Ctr,1804 Wisacky Highway,Bishopville,0,0,0,0
+775,Lee Central Middle,41 Charlene Lane,Bishopville,0,0,0,0
+776,Landrum High,18818 Asheville Highway,Landrum,< 5,0,< 5,0
+777,Legacy Early College,900 Woodside Ave,Greenville,0,0,0,0
+778,Legion Collegiate Academy,505 University Drive,Rock Hill,< 5,0,< 5,0
+779,Lemira Elementary,952 Fulton Street,Sumter,0,0,0,0
+780,Leslie M. Stover Middle,1649 Smyrna Road,Elgin,0,0,0,0
+781,Lesslie Elementary,250 Neely Store Road,Rock Hill,< 5,0,< 5,0
+782,Lewisville Middle,3595 Lancaster Highway,Richburg,0,0,0,0
+783,Lexington Elementary,116 Azalea Drive,Lexington,0,< 5,0,< 5
+784,Lexington High,2463 Augusta Highway,Lexington,7,0,7,0
+785,Lexington Four Early Chood Ctr,135 Lewis Rast Raod,Swansea,0,0,0,0
+786,Lexington Middle,702 North Lake Drive,Lexington,0,0,0,0
+787,Lexington Technology Center,2421 Augusta Highway,Lexington,0,0,0,0
+788,Lexington Two Innovation Ctr,715 9th St,West Columbia,0,0,0,0
+789,Lewisville Elementary,4006 Lewisville High School Road,Richburg,0,0,0,0
+790,Lewisville High,3971 Lewisville High School Road,Richburg,0,0,0,0
+791,Liberty Elementary,251 North Hillcrest Street,Liberty,0,0,0,0
+792,Liberty High,124 Red Devil Drive,Liberty,< 5,0,< 5,0
+793,Liberty Middle,125 Falcon Lane,Liberty,0,0,0,0
+794,Limestone-Central Elementary,727 Pacolet Highway,Gaffney,0,0,0,0
+795,Little Mountain Elementary,692 Mill Street,Little Mountain,< 5,< 5,< 5,< 5
+796,Lloyd-Kennedy Charter,130 Avery Lane,Aiken,0,0,0,0
+797,Lockett Elementary,1349 Dorange Road,Branchville,0,0,0,0
+798,Logan Elementary,815 Elmwood Avenue,Columbia,0,0,0,0
+799,Lone Oak Elementary,7314 Lone Oak Road,Spartanburg,0,< 5,0,< 5
+800,Long Cane Primary,815 East Greenwood Street,Abbeville,0,0,0,0
+801,North Myrtle Beach High,3750 Sea Mountain Highway,Little River,< 5,0,< 5,0
+802,Palmetto High,804 North Hamilton Street,Williamston,0,0,0,0
+803,Palmetto Middle,803 North Hamilton Street,Williamston,< 5,0,0,0
+804,North Myrtle Beach Middle,11240 Highway 90,Little River,0,0,0,0
+805,Palmetto Middle,305 O'Neal Street,Mullins,< 5,0,< 5,0
+806,North Pointe Elementary,3325 Highway 81 North,Anderson,0,0,0,0
+807,Palmetto Youth Acad Ctr,1209 North Douglas Street,Florence,0,0,0,0
+808,North Springs Elementary,1300 Clemson Road,Columbia,0,0,0,0
+809,Oceanside Collegiate Acad,580 Faison Rd,Mt. Pleasant,< 5,0,< 5,0
+810,Myrtle Beach High,3302 Robert Grissom Parkway,Myrtle Beach,< 5,0,< 5,0
+811,Pate Elementary,1010 Indian Branch Road,Darlington,0,0,0,0
+812,North Vista Elementary,1100 North Irby Street,Florence,< 5,< 5,< 5,< 5
+813,Pattison's Academy for Comp Ed,721 Wappoo Road,Charleston,0,0,0,0
+814,Northside Elementary,1929 Industrial Road,Walterboro,0,< 5,0,< 5
+815,Paul Knox Middle,1804 Wells Road,North Augusta,< 5,< 5,< 5,< 5
+816,Northside Elementary,840 North Annafrel Street,Rock Hill,0,0,0,0
+817,Pauline Glenn Springs Elem,2957 Highway 56,Pauline,0,0,0,0
+818,Northside Elementary,710 North Townville Street,Seneca,0,0,0,0
+819,Pee Dee Elementary,6555 Highway 134,Conway,0,0,0,0
+820,Northside Middle,157 Cougar Drive,West Columbia,0,0,0,0
+821,OCSD5 High Sch for Health Prof,130 Howard Hill Drive,Orangeburg,0,0,0,0
+822,Northside Middle,431 Deadfall Road West,Greenwood,< 5,0,< 5,0
+823,Pee Dee Math Sci & Tech,101 Docs Drive,Bishopville,0,0,0,0
+824,Northwest Elementary,840 Green River Road,Gaffney,0,0,0,0
+825,Pelham Road Elementary,100 All Star Way,Greenville,0,< 5,0,0
+826,Northwest Middle,1606 Geer Highway,Travelers Rest,< 5,0,< 5,0
+827,Pelion Elementary,1202 Pine Street,Pelion,0,< 5,0,< 5
+828,North Middle/High,692 Cromer Avenue,North,0,0,0,0
+829,Pelion High,600 Lydia Drive,Pelion,< 5,< 5,< 5,< 5
+830,Northwestern High,2503 West Main Street,Rock Hill,0,0,0,0
+831,Pelion Middle,758 Magnolia Street,Pelion,0,0,0,0
+832,Northwood Middle,710 Ike's Road,Taylors,0,0,0,0
+833,Pendergrass Fairwold Sch,5935 Token Street,Columbia,0,0,0,0
+834,Northwoods Middle,7763 Northside Drive,North Charleston,0,0,0,0
+835,Pendleton Elementary,902 East Queen Street,Pendleton,0,0,0,0
+836,Nursery Road Elementary,6706 Nursery Road,Columbia,0,0,0,0
+837,Pendleton High,7324 Highway 187,Pendleton,0,< 5,0,0
+838,O. P. Earle Elementary,100 Redland Road,Landrum,0,0,0,0
+839,Petersburg Primary,326 North Arnold Street,Pageland,0,0,0,0
+840,Oak Grove Elementary,479 Oak Drive,Lexington,0,0,0,0
+841,Pepperhill Elementary,3300 Creola Road,North Charleston,0,< 5,0,< 5
+842,Oak Pointe Elementary,1 River Bottom Road,Irmo,0,0,0,0
+843,Palmetto Scholars Academy,7499 Dorchester Road,North Charleston,0,0,0,0
+844,Oakbrook Elementary,306 Old Fort Drive,Ladson,0,0,0,0
+845,Nexton Elementary,200 Scholar Way,Summerville,0,0,0,0
+846,Oakbrook Middle,286 Old Fort Road,Ladson,0,0,0,0
+847,Philip Simmons Elementary,2095 Seven Sticks Dr,Wando,0,0,0,0
+848,Oakdale Elementary,1129 Oakdale Road,Rock Hill,0,0,0,0
+849,Philip Simmons Middle,2095 Seven Sticks Dr,Wando,0,0,0,0
+850,Oakland Elementary,151 Mud Creek Road,Inman,< 5,0,< 5,0
+851,Phoenix Charter High,1423 Hotel Street,Alcolu,0,0,0,0
+852,Oakland Primary,5415 Oakland Drive,Sumter,0,0,0,0
+853,Pickens Cty Career & Tech Ctr,990 Chastain Road,Liberty,< 5,0,< 5,0
+854,Robert Anderson Middle,2302 Dobbins Bridge Road,Anderson,< 5,0,< 5,0
+855,Oakland Elementary,505-A Arlington Drive,Charleston,0,0,0,0
+856,Powdersville Elementary,139 Hood Road,Greenville,0,0,0,0
+857,Montessori Community School,2122 Wood Avenue,Charleston,0,0,0,0
+858,Springfield Elementary,1608 Florida Avenue,Greenwood,0,0,0,0
+859,Paris Elementary,32 East Belvue Road,Taylors,0,0,0,0
+860,Pickens Elementary,567 Hampton Avenue,Pickens,0,0,0,0
+861,Pickens High,150 Blue Flame Drive,Pickens,0,0,0,0
+862,Pickens Middle,140 Torch Lane,Pickens,0,0,0,0
+863,Pine Grove Elementary,111 Huffstetler Drive,Columbia,0,0,0,0
+864,Pine Ridge Middle,735 Pine Ridge Drive,West Columbia,< 5,0,< 5,0
+865,Pine St. Elementary,500 South Pine Street,Spartanburg,0,0,0,0
+866,Pine Tree Hill Elementary,938 Bishopville Highway,Camden,0,0,0,0
+867,Pinecrest Elementary,220 East Northside Drive,Greenwood,< 5,0,< 5,0
+868,Pinehurst Elementary,7753 Northside Drive,North Charleston,0,0,0,0
+869,Plain Elementary,506 Neely Ferry Road,Simpsonville,0,0,0,0
+870,Plainview Elementary,16002 Highway 102,Patrick,0,0,0,0
+871,Pleasant Hill Elementary,127 Schoolhouse Road,Hemingway,0,0,0,0
+872,Pleasant Hill Elementary,664 Rawl Road,Lexington,0,0,0,0
+873,Pleasant Hill Middle,660 Rawl Road,Lexington,< 5,0,< 5,0
+874,Pleasant Knoll Elem,2346 Pleasant Road,Fort Mill,0,< 5,0,< 5
+875,Pleasant Knoll Middle,2320 Pleasant Rd,Fort Mill,0,0,0,0
+876,Pocalla Springs Elementary,2060 Bethel Church Road,Sumter,0,< 5,0,0
+877,Polaris Tech,1508 Grays Hwy,Ridgeland,0,0,0,0
+878,Polo Road Elementary,1250 Polo Road,Columbia,0,0,0,0
+879,Pontiac Elementary,500 Spears Creek Church Road,Elgin,0,0,0,0
+880,Port Royal Elementary,1214 Paris Avenue,Port Royal,0,0,0,0
+881,Plantersville Elementary,16689 Exodus Drive,Georgetown,0,0,0,0
+882,SC Sch For Deaf Elem/Middle,355 Cedar Springs Road,Spartanburg,0,0,0,0
+883,Morningside Middle,1999 Singley Lane,North Charleston,0,0,0,0
+884,Springfield Elementary,1691 Springfield Parkway,Fort Mill,0,0,0,0
+885,Powdersville High,145 Hood Road,Greenville,0,0,0,0
+886,Robert E. Cashion Elementary,1500 Fork Shoals Road,Greenville,< 5,0,< 5,0
+887,Oakridge Elementary,5670 Oakridge Rd,Clover,0,< 5,0,< 5
+888,SC School For Deaf High,355 Cedar Springs Road,Spartanburg,0,0,0,0
+889,Mossy Creek Elementary,421 West Five Notch Road,North Augusta,0,< 5,0,< 5
+890,Springfield Middle,1711 Springfield Parkway,Fort Mill,< 5,0,< 5,0
+891,Powdersville Middle,135 Hood Road,Greenville,< 5,0,< 5,0
+892,River Oaks Elementary,700 Augusta Plantation Drive,Myrtle Beach,0,0,0,0
+893,Oakridge Middle,5670 Oakridge Road,Clover,< 5,0,< 5,0
+894,SC Connections Academy,"201 Executive Center Drive, Suite 250",Columbia,0,0,0,0
+895,Mossy Oaks Elementary,2510 Mossy Oaks Boulevard,Beaufort,0,0,0,0
+896,Springfield Elementary,2130 Pinehurst Avenue,Charleston,0,0,0,0
+897,Prestige  Preparatory Academy,2415 Ave F,North Charleston,0,0,0,0
+898,Robert E. Howard Middle,1255 Belleville Road,Orangeburg,0,0,0,0
+899,Oakview Elementary,515 Godfrey Road,Simpsonville,0,0,0,0
+900,SC Connections Academy,"201 Executive Center Drive, Suite 250",Columbia,0,0,0,0
+901,Mount Gallant Elem,4664 Mount Gallant Road,Rock Hill,0,0,0,0
+902,St. Andrew's Sch of Math & Sci,505B Arlington Drive,Charleston,0,0,0,0
+903,Pomaria-Garmany Elementary,7288 US Highway 176,Pomaria,0,< 5,0,0
+904,River Ridge Elementary,5960 Reidville Road,Moore,0,< 5,0,< 5
+905,Oakwood-Windsor Elementary,3773 Charleston Highway,Aiken,0,< 5,0,< 5
+906,SC Whitmore School,"501 Commerce Drive, NE",Columbia,0,0,0,0
+907,Mount Holly Elementary,1800 Porter Road,Rock Hill,0,< 5,0,< 5
+908,St. Andrews Middle,1231 Bluefield Road,Columbia,0,0,0,0
+909,Pritchardville Elementary,9447 Evan Way,Bluffton,0,0,0,0
+910,Robert Smalls Intl Acad,43 W.K. Alston Drive,Beaufort,0,0,0,0
+911,Ocean Bay Elementary,950 International Drive,Myrtle Beach,< 5,0,< 5,0
+912,Ocean Bay Middle,905 International Drive,Myrtle Beach,0,0,0,0
+913,Ocean Drive Elementary,901 11th Avenue North,North Myrtle Beach,0,< 5,0,0
+914,Okatie Elementary,53 Cherry Point Road,Okatie,0,0,0,0
+915,Olanta Elementary,312 North Jones Road,Olanta,0,0,0,0
+916,Old Pointe Elementary,380 Old Pointe School Road,Rock Hill,0,0,0,0
+917,Odyssey Online Learning,"510 Lexington Avenue, #102",Chapin,0,0,0,0
+918,Orange Grove Charter,1225 Orange Branch Road,Charleston,0,0,0,0
+919,Orangeburg Sch Dist 5 Tech Ctr,3720 Magnolia Street,Orangeburg,0,0,0,0
+920,Orangeburg Wilkinson High,601 Bruin Parkway,Orangeburg,< 5,< 5,0,< 5
+921,Orchard Park Elementary,600 Toccoa Highway,Westminster,0,< 5,0,0
+922,Orchard Park Elementary,474 Third Baxter Street,Fort Mill,0,0,0,0
+923,Overbrook Child Devel Ctr,111 Laurens Road,Greenville,0,0,0,0
+924,Pacolet Elementary,150 McDowell Street,Pacolet,0,0,0,0
+925,Pageland Elementary,715 West McGregor Street,Pageland,0,0,0,0
+926,Palmetto Acad of Learn/Success,3021 Fred Nash Blvd,Myrtle Beach,0,0,0,0
+927,Palmetto Acad/Motorsports,136 Rodeo Drive,Conway,< 5,0,< 5,0
+928,Palmetto Bays Elementary,8900 Highway 544,Myrtle Beach,0,0,0,0
+929,Palmetto Elementary,1 Roberts Boulevard,Williamston,0,0,0,0
+930,Cleveland Acad of Lead,151 Franklin Street,Spartanburg,0,0,0,0
+931,Schofield Middle,224 Kershaw Street Northeast,Aiken,0,0,0,0
+932,Scott's Branch High,9253 Alex Harvin Highway,Summerton,0,0,0,0
+933,Montessori School of Camden,2 Montessori Way,Camden,0,0,0,0
+934,Scott's Branch Middle,9253 Alex Harvin Highway,Summerton,0,0,0,0
+935,Rock Hill High,320 West Springdale Road,Rock Hill,0,0,0,0
+936,Prosperity-Rikard Elementary,381 South Wheeler Street,Prosperity,< 5,0,< 5,0
+937,Palmetto Empower Enrich,5000 Broad River Rd,Columbia,0,0,0,0
+938,St. George Middle,600 Minus Street,St. George,0,0,0,0
+939,Scranton Elementary,1649 US 52 Highway,Scranton,0,0,0,0
+940,Rocky Creek Elementary,430 Calks Ferry Road,Lexington,< 5,0,< 5,0
+941,Quest Leadership Acad,29 Ridgeway Drive,Greenville,0,0,0,0
+942,Theodore Lester Elementary,3501 East Palmetto Street,Florence,< 5,0,< 5,0
+943,St. Helena Elementary,1025 Sea Island Parkway,St. Helena Island,0,0,0,0
+944,Moultrie Middle,645 Coleman Boulevard,Mt. Pleasant,0,0,0,0
+945,Seaside Elementary,1605 Woodland Drive,Garden City,0,0,0,0
+946,Roebuck Elementary,2401 East Blackstock Road,Roebuck,< 5,0,< 5,0
+947,R. B. Stall High,3625 Ashley Phosphate Road,North Charleston,< 5,0,< 5,0
+948,Thomas C. Cario Middle,3500 Thomas Cario Boulevard,Mt. Pleasant,0,< 5,0,< 5
+949,St. James Elementary,9711 St. James Road,Myrtle Beach,0,0,0,0
+950,Marrington Mid Sch of the Arts,109 Gearing Street,Goose Creek,0,0,0,0
+951,Sangaree Intermediate,201 School House Lane,Summerville,0,< 5,0,< 5
+952,Rollings Mid Sch of the Arts,815 South Main Street,Summerville,0,< 5,0,< 5
+953,R. C. Edwards Middle,1157 Madden Bridge Road,Central,0,0,0,0
+954,Thornwell Charter School,203 West Calhoun Street,Clinton,0,0,0,0
+955,St. James High,10800 Highway 707,Murrells Inlet,< 5,0,< 5,0
+956,Mt. Lebanon Elementary,2850 Lebanon Road,Pendelton,< 5,0,< 5,0
+957,Seneca High,100 Bobcat Ridge,Seneca,< 5,< 5,< 5,0
+958,Ronald E. McNair Junior High,311 Carver Street,Lake City,0,< 5,0,< 5
+959,RD Anderson Applied Tech Ctr,1151 Center Point Drive,Moore,0,< 5,0,< 5
+960,Thomas E. Kerns Elementary,6650 Frontage Road at White Horse Road,Greenville,0,< 5,0,< 5
+961,St. James Intermediate,9641 Scipio Ln,Myrtle Beach,0,0,0,0
+962,Mt. Pisgah Elementary,5160 Mount Pisgah Road,Kershaw,0,0,0,0
+963,Mt. Pleasant Academy,605 Center Street,Mt. Pleasant,< 5,0,0,0
+964,Mt. Zion Elementary,3464 River Road,Johns Island,0,0,0,0
+965,Muller Road Middle,1031 Muller Road,Blythewood,0,< 5,0,0
+966,Mullins High,747 Miller's Road,Mullins,0,< 5,0,< 5
+967,Murray LaSaine Montessori,691 Riverland Drive,Charleston,0,0,0,0
+968,Myrtle Beach Child Dev Center,612 29th Avenue North,Myrtle Beach,0,0,0,0
+969,Myrtle Beach Elementary,3301 Oak Street,Myrtle Beach,0,0,0,0
+970,Myrtle Beach Middle,3101 North Oak Street,Myrtle Beach,0,0,0,0
+971,Nevitt Forest Elementary,1401 Bolt Drive,Anderson,0,0,0,0
+972,New Ellenton STEAM Magnet Mid,814 Main Street South,New Ellenton,< 5,0,< 5,0
+973,New Heights Middle,5738 Highway 151,Jefferson,0,0,0,0
+974,New Prospect Elementary,126 New Prospect Church Road,Anderson,0,0,0,0
+975,Myrtle Beach Primary,620 29th Avenue North,Myrtle Beach,0,0,0,0
+976,New Prospect Elementary,9251 Highway 9,Inman,0,0,0,0
+977,New Providence Elementary,1118 Old Cherokee Road,Lexington,0,0,0,0
+978,Newberry County Career Ctr,3413 Main Street,Newberry,0,0,0,0
+979,Newberry Elementary,1829 Nance Street,Newberry,0,< 5,0,< 5
+980,Newberry High,3113 Main Street,Newberry,0,0,0,0
+981,Newberry Middle,125 O'Neal Street,Newberry,< 5,< 5,< 5,< 5
+982,Newington Elementary,10 King Charles Circle,Summerville,0,0,0,0
+983,Nation Ford High,1400 AO Jones Bouvelard,Fort Mill,0,0,0,0
+984,NEXT High,2000 Wade Hampton Blvd,Greenville,< 5,0,< 5,0
+985,Mevers School of Excellence,7750 Henry E Brown Jr Blvd,Goose Creek,0,0,0,0
+986,Ninety Six Elementary,810 Johnston Road,Ninety Six,0,0,0,0
+987,Ninety Six High,640 South Cambridge Street,Ninety Six,< 5,0,0,0
+988,Ninety Six Primary,121 South Cambridge Street,Ninety Six,0,0,0,0
+989,North Aiken Elementary,100 Bears Rock Road,Aiken,< 5,0,< 5,0
+990,North Augusta Elementary,400 East Spring Grove Avenue,North Augusta,< 5,< 5,< 5,< 5
+991,North Augusta High,2000 Knobcone Avenue,North Augusta,< 5,< 5,< 5,< 5
+992,North Augusta Middle,725 Old Edgefield Road,North Augusta,0,0,0,0
+993,North Central High,3000 Lockhart Road,Kershaw,< 5,< 5,< 5,< 5
+994,North Central Middle,805 Keys Lane,Kershaw,< 5,0,< 5,0
+995,N Charleston Crtv Arts Elem,1600 Saranac Street,North Charleston,0,0,0,0
+996,North Charleston Elementary,4921 Durant Avenue,North Charleston,0,0,0,0
+997,North Charleston High,1087 East Montague Avenue,North Charleston,0,0,0,0
+998,North District Middle,507 Tillman Avenue,Varnville,< 5,0,< 5,0
+999,North Elementary,1100 Roddey Drive,Lancaster,0,0,0,0
+1000,North Hartsville Elementary,110 School Drive,Hartsville,0,0,0,0
+1001,North Mullins Primary,105 Charles Street,Mullins,0,0,0,0
+1002,Mountain View Elementary,6350 Highway 253,Taylors,0,0,0,0
+1003,St. James Middle,9775 St. James Road,Myrtle Beach,0,0,0,0
+1004,R. E. Davis Elementary,345 Eastern School Road,Sumter,0,0,0,0
+1005,Seneca Middle,810 West South Fourth Street,Seneca,5,< 5,5,< 5
+1006,Spaulding Middle,400 East Cartersville Highway,Lamar,0,0,0,0
+1007,Thornwell School for the Arts,437 West Carolina Avenue,Hartsville,0,< 5,0,< 5
+1008,R. H. Fulmer Middle,1614 Walterboro Street,West Columbia,< 5,0,< 5,0
+1009,Rosemary Middle,12804 County Line Road,Andrews,0,0,0,0
+1010,Seven Oaks Elementary,2800 Ashland Road,Columbia,0,< 5,0,< 5
+1011,St. James-Gaillard Elementary,1555 Gardensgate Road,Eutawville,0,0,0,0
+1012,R. P. Dawkins Middle,1300 East Blackstock Road,Moore,0,0,0,0
+1013,Thunderbolt Career & Tech Ctr,1069 Thunderbolt Road,Walterboro,0,0,0,0
+1014,St. John's Christian Academy,204 West Main Street,Moncks Corner,0,0,0,0
+1015,Timmonsville High,304 Kemper Street,Timmonsville,0,0,0,0
+1016,Townville Elementary,105 Townville School Road,Townville,0,0,0,0
+1017,Travelers Rest High,301 North Main Street,Travelers Rest,0,0,0,0
+1018,Thurmond Career and Tech Ctr,17 Par Drive,Johnston,0,0,0,0
+1019,Union County High,1163 Lakeside Drive,Union,< 5,< 5,< 5,< 5
+1020,Van Wyck Elementary ,4945 Charlotte Hwy,Lancaster,0,0,0,0
+1021,Vance-Providence Elementary,633 Camden Road,Vance,0,0,0,0
+1022,R.N. Beck Child Devel Ctr,1001 West Sumter Street,Florence,0,0,0,0
+1023,Sevier Middle,1000 Piedmont Park Road,Greenville,0,0,0,0
+1024,Varennes Elementary,1820 Highway 29 South,Anderson,0,0,0,0
+1025,Rainbow Lake Middle,1951 Riveroak Road,Chesnee,< 5,0,0,0
+1026,St. James Santee Elementary,8900 Highway 17 North,McClellanville,0,0,0,0
+1027,Rosenwald Elementary/Middle,508 Church Street,Society Hill,0,< 5,0,< 5
+1028,Ralph Chandler Middle,4231 Fork Shoals Road,Simpsonville,< 5,< 5,< 5,< 5
+1029,Rosewood Elementary,2240 Rosewood Drive,Rock Hill,0,0,0,0
+1030,St. Johns Elementary,140 Park Street,Darlington,0,< 5,0,< 5
+1031,Ravenel Elementary,150 Ravenel School Road,Seneca,0,0,0,0
+1032,Rosewood Elementary,3300 Rosewood Drive,Columbia,0,0,0,0
+1033,Sheridan Elementary,1139 Hillsboro Road,Orangeburg,0,0,0,0
+1034,St. Johns High,1518 Main Road,Johns Island,< 5,0,< 5,0
+1035,Varnville Elementary,395 Pine Street East,Varnville,0,< 5,0,< 5
+1036,Rawlinson Road Middle,2631 West Main Street,Rock Hill,0,0,0,0
+1037,Round Top Elementary,449 Rimer Pond Road,Blythewood,0,0,0,0
+1038,Shoally Creek Elementary,3777 Parris Bridge Rd,Boiling Springs,0,< 5,0,< 5
+1039,St. Matthews K-8 School,135 Saints Avenue,St. Matthews,0,0,0,0
+1040,Union Co Career & Tech Ctr,1165 Lakeside Drive,Union,0,0,0,0
+1041,Red Bank Elementary,246 Community Drive,Lexington,< 5,0,< 5,0
+1042,Royal Academy of the Arts/Sci,400 John Smith Road,Hardeeville,0,0,0,0
+1043,Silver Bluff High,64 DeSoto Drive,Aiken,0,0,0,0
+1044,St. Paul Elementary,9297 Alex Harvin Highway,Summerton,0,0,0,0
+1045,W. A. Perry Middle,2600 Barhamville Road,Columbia,0,0,0,0
+1046,Redcliffe Elementary,22 Double Springs Road,Aiken,< 5,0,< 5,0
+1047,Royall Elementary,1400 Woods Road,Florence,0,0,0,0
+1048,Simpsonville Elementary,200 Morton Avenue,Simpsonville,0,0,0,0
+1049,Sangaree Middle,1050 Discovery Drive,Ladson,0,< 5,0,< 5
+1050,W. C. Sullivan Middle,1825 Eden Terrace,Rock Hill,< 5,0,< 5,0
+1051,Renaissance Collegiate Academy,"425 Summit Terrace Court, Building 2",Columbia,0,0,0,0
+1052,Rudolph Gordon Elementary,1507 Scuffletown Road,Simpsonville,0,0,0,0
+1053,Simmons Pinckney Middle,244 President Street,Charleston,0,0,0,0
+1054,Sedgefield Intermediate,225 Garwood Drive,Goose Creek,0,0,0,0
+1055,Sue Cleveland Elementary,375 Woodmont School Road Extension,Piedmont,0,0,0,0
+1056,Reuben Elementary,3605 Spearman Road,Newberry,0,0,0,0
+1057,Saluda High,160 Ivory Key Road,Saluda,< 5,0,< 5,0
+1058,Shaw Heights Elementary,5121 Frierson Road,Shaw Air Force Base,0,0,0,0
+1059,Starr Elementary,400 Professor Brown Lane,Starr,< 5,< 5,< 5,0
+1060,Virtus Academy of SC,404 Dorado Drive,Florence,0,0,0,0
+1061,Rice Creek Elementary,4751 Hard Scrabble Road,Columbia,0,0,0,0
+1062,Saluda Middle,140 Ivory Key Road,Saluda,< 5,0,< 5,0
+1063,Sims Middle,2200 Whitmire Highway,Union,0,0,0,0
+1064,Six Mile Elementary,777 North Main Street,Six Mile,0,0,0,0
+1065,Skyland Elementary,4221 Highway 14 North,Greer,0,0,0,0
+1066,Slater Marietta Elementary,100 Baker Circle,Marietta,0,0,0,0
+1067,Socastee Elementary,4223 Socastee Boulevard,Myrtle Beach,0,0,0,0
+1068,Socastee High,4900 Socastee Boulevard,Myrtle Beach,< 5,0,< 5,0
+1069,South Aiken High,232 East Pine Log Road,Aiken,< 5,< 5,< 5,< 5
+1070,SC Virtual Charter Sch,140 Stoneridge Drive  Suite 420,Columbia,0,0,0,0
+1071,South Conway Elementary,3001 Fourth Avenue,Conway,0,0,0,0
+1072,South Elementary,900 Patriot Street,Dillon,0,0,0,0
+1073,South Fant School,1700 South Fant Street,Anderson,0,0,0,0
+1074,South Florence High,3200 South Irby Street,Florence,< 5,0,< 5,0
+1075,South Kilbourne Elementary,1400 South Kilbourne Road,Columbia,0,0,0,0
+1076,South Pointe High,801 Neely Road,Rock Hill,< 5,0,< 5,0
+1077,Southeast Middle,731 Horrell Hill Road,Hopkins,0,0,0,0
+1078,Southside Early Chood Ctr,1615 Blanding Drive,Hartsville,0,0,0,0
+1079,Southside Middle,200 East Howe Springs Road,Florence,0,0,0,0
+1080,Southwood Academy for the Arts,1110 Southwood Street,Anderson,0,0,0,0
+1081,Spartanburg High,2250 E Main St,Spartanburg,5,< 5,< 5,< 5
+1082,South Middle,1551 Billings Dr,Lancaster,0,0,0,0
+1083,Southside High,6630 Frontage Road at White Horse Road,Greenville,0,0,0,0
+1084,Spartanburg Preparatory Sch,385 South Spring Street,Spartanburg,< 5,0,< 5,0
+1085,Spartanburg 7 Early Chood Ctr,301 Crescent Avenue,Spartanburg,0,0,0,0
+1086,Spaulding Elementary,204 East Pearl Street,Lamar,0,0,0,0
+1087,Spring Hill High,11629 Broad River Road,Chapin,< 5,0,< 5,0
+1088,Spearman Elementary,2001 Easley Highway,Piedmont,< 5,0,< 5,0
+1089,Socastee Middle,151 Sheffield Parkway,Myrtle Beach,0,< 5,0,< 5
+1090,Spring Valley High,120 Sparkleberry Lane,Columbia,< 5,< 5,0,< 5
+1091,Springdale Elementary,361 Wattling Road,West Columbia,0,0,0,0
+1092,Saluda Primary,200 Matthews Drive,Saluda,< 5,< 5,< 5,< 5
+1093,Saluda Elementary,400 W Butler Ave,Saluda,0,0,0,0
+1094,Riverside Elementary,1287 Highway 57 South,Little River,< 5,0,< 5,0
+1095,River Trail Elem.,1016 Fort Mill Parkway,Fort Mill,0,0,0,0
+1096,Ruby Elementary,249 Thurman Aveune,Ruby,0,0,0,0
+1097,Saluda River Acad for the Arts,1520 Duke Avenue,West Columbia,< 5,0,< 5,0
+1098,Saluda Trail Middle,2300 Saluda Road,Rock Hill,< 5,0,< 5,0
+1099,Sampit Elementary,69 Woodland Avenue,Georgetown,0,0,0,0
+1100,Heyward Career & Tech Ctr,3560 Lynhaven Drive,Columbia,0,0,0,0
+1101,Sandel Elementary,2700 Seminole Road,Columbia,0,0,0,0
+1102,Sanders Middle,609 Green Street,Laurens,0,0,0,0
+1103,Rivelon Elementary,350 Thomas B. Eklund Circle,Orangeburg,0,0,0,0
+1104,Sand Hill Elementary,324 Gnarly Oak Ln,Summerville,0,0,0,0
+1105,Sanders-Clyde Elementary,805 Morrison Drive,Charleston,0,0,0,0
+1106,Sandhills Elementary,130 Lewis Rast Road,Swansea,< 5,0,< 5,0
+1107,Sandhills Middle,582 Meadowfield Road,Gaston,0,0,0,0
+1108,Sandhills Primary,140 Lewis Rast Road,Swansea,0,0,0,0
+1109,Sandlapper Elementary,1001 Longtown Road,Columbia,0,0,0,0
+1110,Sandy Run School,450 Old Swamp Road,Swansea,0,0,0,0
+1111,Philp Simmons High School,3080 River Village Dr,Charleston,0,0,0,0
+1112,Ridge Christian Academy,2168 Ridge Church Road,Summerville,< 5,0,< 5,0
+1113,Sangaree Elementary,1460 Royle Road,Summerville,0,0,0,0
+1114,Sara Collins Elementary,1200 Parkins Mill Road,Greenville,0,0,0,0
+1115,Satchel Ford Elementary,5901 Satchel Ford Road,Columbia,0,0,0,0
+1116,Savannah Grove Elementary,2348 Savannah Grove Road,Effingham,0,0,0,0
+1117,Saxe Gotha Elementary,100 Bill Williamson Court,Lexington,< 5,0,< 5,0
+1118,SC Gov Sch Arts & Humanities,15 University Street,Greenville,0,0,0,0
+1119,SC Sch For Blind Elem/Middle,355 Cedar Springs Road,Spartanburg,0,0,0,0
+1120,SC School For Blind High,355 Cedar Springs Road,Spartanburg,< 5,0,< 5,0
+1121,Richard Carroll Elementary,1980 Main Hwy,Bamberg,< 5,0,< 5,0
+1122,W. B. Goodwin Elementary,5501 Dorchester Rd,North Charleston,0,0,0,0
+1123,Starr-Iva Middle,1034 Rainey Road,Starr,0,0,0,0
+1124,Rafting Creek Elementary,4100 Highway 261 North,Rembert,0,0,0,0
+1125,Richard H. Gettys Middle,510 South Pendleton Street,Easley,0,< 5,0,0
+1126,Richland Northeast High,7500 Brookfield Road,Columbia,< 5,0,0,0
+1127,Reidville Elementary,520 Main Street,Reidville,0,< 5,0,0
+1128,Richland One Ctr Middle Coll,316 South Beltline Boulevard,Columbia,0,0,0,0
+1129,Richland Two Charter High,7900 Brookmont Lane,Columbia,0,0,0,0
+1130,Richmond Drive Elementary,1162 Richmond Drive,Rock Hill,0,0,0,0
+1131,Ridge Spring-Monetta Elem,422 Hazzard Circle,Ridge Spring,0,0,0,0
+1132,Ridge Spring-Monetta High,1071 Trojan Road,Monetta,0,0,0,0
+1133,Ridge Spring-Monetta Middle,1085 Trojan Road,Monetta,< 5,0,< 5,0
+1134,Ridge View High,4801 Hard Scrabble Road,Columbia,0,0,0,0
+1135,Ridgeland Elementary,250 Jaguar Trail,Ridgeland,0,< 5,0,0
+1136,River Bluff High,320 Corley Mill Road,Lexington,< 5,< 5,< 5,< 5
+1137,River Oaks Middle,8642 River Oaks Drive,North Charleston,0,0,0,0
+1138,River Ridge Academy,3050 River Ridge Dr,Bluffton,0,0,0,0
+1139,River Springs Elementary,115 Connie Wright Road,Irmo,0,0,0,0
+1140,Riverbank Elementary,160 Cougar Drive,West Columbia,0,0,0,0
+1141,Riverside High,794 Hammett Bridge Road,Greer,< 5,0,< 5,0
+1142,Riverside Middle,615 Hammett Bridge Road,Greer,< 5,0,< 5,0
+1143,Riverside Middle,458 Riverside Street,Pendleton,0,0,0,0
+1144,Ridgeland-Hardeeville High,250 Jaguar Trail  Unit 101,Ridgeland,0,< 5,0,0
+1145,Red Cedar Elementary,11 Box Elder Lane,Bluffton,0,0,0,0
+1146,Riverview Charter School,81 Savannah Highway,Beaufort,0,0,0,0
+1147,Riverview Elementary,1300 Spratt Street,Fort Mill,0,0,0,0
+1148,Riverwalk Academy,5750 Mount Gallant Road,Rock Hill,0,0,0,0
+1149,Sterling School,99 John McCarroll Way,Greenville,0,0,0,0
+1150,Stewart Heights Elementary,1001 West Calhoun Street,Dillon,0,0,0,0
+1151,Stiles Point Elementary,883-A Mikell Drive,Charleston,0,0,0,0
+1152,Stone Academy,115 Randall Street,Greenville,< 5,0,< 5,0
+1153,Stono Park Elementary,314 Huntley Drive,Charleston,0,0,0,0
+1154,Sedgefield Middle,131 Charles B. Gibson Boulevard,Goose Creek,0,0,0,0
+1155,Strom Thurmond High,1131 Columbia Road,Johnston,< 5,0,< 5,0
+1156,Sugar Creek Elementary,1599 Farm House Road,Fort Mill,0,0,0,0
+1157,Sullivan's Island Elementary,2014 Mike Perkis Place,Sullivan's Island,0,< 5,0,< 5
+1158,Summerton Early Chood Center,8 South Church Street,Summerton,0,< 5,0,< 5
+1159,Summerville Elementary,835 South Main Street,Summerville,0,0,0,0
+1160,W. E. Parker Elementary,41 Crest Road,Edgefield,0,0,0,0
+1161,Summerville High,1101 Boone Hill Road,Summerville,< 5,< 5,< 5,< 5
+1162,W. G. Sanders Middle,3455 Pinebelt Road,Columbia,0,0,0,0
+1163,Summit Classical School,600 East Florida Street,Clinton,0,0,0,0
+1164,W.J. Keenan High,361 Pisgah Church Road,Columbia,0,0,0,0
+1165,Summit Drive Elementary,424 Summit Drive,Greenville,< 5,0,< 5,0
+1166,W.M. Anderson Primary,500 Lexington Avenue,Kingstree,0,0,0,0
+1167,Summit Parkway Middle,200 Summit Parkway,Columbia,0,0,0,0
+1168,Tall Pines STEM Acad,82 Camp Long Rd,Aiken,0,0,0,0
+1169,Palmetto Sch/Child Atten Home,P.O. Box 2912,Rock Hill,0,0,0,0
+1170,Waccamaw Elementary,251 Claridy Road,Conway,0,0,0,0
+1171,Waccamaw Elementary,1364 Waverly Road,Pawleys Island,0,0,0,0
+1172,Waccamaw High,2412 Kings River Road,Pawleys Island,< 5,0,0,0
+1173,Waccamaw Middle,247 Wildcat Way,Pawleys Island,0,0,0,0
+1174,Tigerville Elementary,25 Tigerville Elementary Road,Taylors,0,< 5,0,< 5
+1175,Waccamaw Intermediate,320 Wildcat Way,Pawleys Island,0,0,0,0
+1176,Wade Hampton High,115 Airport Road,Varnville,< 5,0,< 5,0
+1177,Wade Hampton High,100 Pine Knoll Dr,Greenville,0,0,0,0
+1178,Wagener-Sally High,272 Main Street South,Wagener,< 5,0,< 5,0
+1179,Walhalla Elementary,508 Fowler Road,West Union,< 5,0,< 5,0
+1180,Walhalla High,4701 North Highway 11,Walhalla,5,< 5,5,0
+1181,Walhalla Middle,151 Razorback Lane,Walhalla,< 5,0,< 5,0
+1182,Walker-Gamble Elementary,2358 Walker-Gamble Road,New Zion,< 5,0,< 5,0
+1183,Wallace Gregg Elementary,515 Francis Marion Road,Florence,0,0,0,0
+1184,Ware Shoals Elementary Middle,45 West Main Street,Ware Shoals,0,0,0,0
+1185,Ware Shoals High,56 South Greenwood Avenue,Ware Shoals,0,0,0,0
+1186,Ware Shoals Primary,15269 Indian Mound Road,Ware Shoals,0,0,0,0
+1187,Warrenville Elementary,569 Howlandville Road,Warrenville,< 5,< 5,0,< 5
+1188,Washington Center,2 Betty Spencer Drive,Greenville,< 5,0,< 5,0
+1189,Sumter Career & Tech Ctr,2612 McCray's Mills Road,Sumter,0,0,0,0
+1190,Sumter High,2580 McCray's Mill Road,Sumter,0,0,0,0
+1191,Sunset Park Ctr Accel/Studies,1036 Ogden Road,Rock Hill,0,0,0,0
+1192,Swansea High,500 East First Street,Swansea,< 5,0,< 5,0
+1193,Swansea High Freshman Acad,1195 I. W. Hutto Road,Swansea,0,0,0,0
+1194,T. E. Mabry Middle,35 Oakland Avenue,Inman,< 5,0,< 5,0
+1195,T. L. Hanna High,2600 Highway 81 North,Anderson,< 5,< 5,< 5,0
+1196,Tamassee-Salem Elementary,9950 North Highway 11,Tamassee,0,0,0,0
+1197,Tanglewood Middle,44 Merriwoods Drive,Greenville,0,0,0,0
+1198,Taylors Elementary,809 Reid School Road,Taylors,0,0,0,0
+1199,Tega Cay Elementary,2185 Gold Hill Road,Tega Cay,0,0,0,0
+1200,Ten Oaks Middle,150 Revolutionary War Way,Myrtle Beach,0,0,0,0
+1201,Holy Trinity Catholic School,1760 Living Stones Ln,Longs,< 5,0,< 5,0
+1202,St. Elizabeth Ann Seton Catholic School,1300 Carolina Forest Blvd,Myrtle Beach,0,0,0,0
+1203,Christ Our King - Stella Maris,1183 Russell Dr,Mt. Pleasant,< 5,0,0,0
+1204,Nativity School,1125 Pitssford Cir,Charleston,0,0,0,0
+1205,Cambridge Academy,103 Eastman St,Greenwood,< 5,0,< 5,0
+1206,West Greenville School,15 Endel St,Greenville,0,0,0,0
+1207,Hawthorne Christian Academy,790 State Rd 316,Chester,< 5,0,< 5,0
+1208,Northside Christian School,7800 Northside Drive,N. Charleston,< 5,< 5,< 5,< 5
+1209,The Village School of Gaffney,200 N Limestone St,Gaffney,0,0,0,0
+1210,Willliamsburg Academy,1000 Sandy Bay Rd,Kingstree,0,0,0,0
+1211,Wardlaw Academy,1296 Columbia Rd,Johnston,0,0,0,0
+1212,Sonshine Learning Center,1201 Haywood Road,Greenville,< 5,0,0,0
+1213,Patrick Henry Academy,8766 Savannah Hwy,Estill,14,0,14,0
+1214,Southside Christian School of the Upstate,2211 Woodruff Road,Simpsonville,0,0,0,0
+1215,Dillon Christian School,1325 Commerce Dr,Dillon,< 5,0,< 5,0
+1216,Spartanburg Day School,1701 Skylyn Drive,Spartanburg,< 5,0,< 5,0
+1217,Northwood Academy,104 Charger Dr,Summerville,< 5,0,< 5,0
+1218,St. David's School and Day Care,420 Market Street,Cheraw,0,0,0,0
+1219,Thomas Sumter Academy,5265 Camden Hwy,Rembert,0,0,0,0
+1220,St. James Lutheran School,1137 Alice Drive,Sumter,0,0,0,0
+1221,Wallace Elementary/Middle,3643 Highway 9 West,Wallace,0,0,0,0
+1222,First Presbyterian Preschool,224 Barnwell Avenue NW,Aiken,0,0,0,0
+1223,Whitmire Community Sch High,2597 SC Highway 66,Whitmire,0,0,0,0
+1224,St. Peter's Catholic School,1035 Hampton St,Columbia,< 5,0,< 5,0
+1225,Orangeburg Christian Academy,1842 Joe Jeffords Hwy,Orangeburg,0,0,0,0
+1226,Holly Hill Academy,142 Bunch Ford Rd,Holly Hill,< 5,0,< 5,0
+1227,Wesley Christian School,2456 Broughton St,Orangeburg,0,0,0,0
+1228,Cathedral Academy,3790 Ashley Phosphate Rd,Charleston,0,0,0,0
+1229,Ben Lippen School: St Andrews ,500 St Andrews Rd,Columbia,0,0,0,0
+1230,C.E. Williams Middle School,3090 Sanders Rd,Charleston,0,0,0,0
+1231,Carolina Christian Academy,1850 Kershaw Camden Hwy,Lancaster,0,0,0,0
+1232,Pee Dee Academy,2903 E. Hwy 76,Mullins,< 5,0,0,0
+1233,Andrew Jackson Academy,7054 Broxton Bridge Rd,Ehrhardt,10,< 5,< 5,< 5
+1234,Long Cane Academy,1317 Overbrook Dr,McCormick,0,0,0,0
+1235,Allendale Early Learning Academy,1919 Pleasant St W,Allendale,0,0,0,0
+1236,Archway Academy,2049 McCrays Mill Rd,Sumter,0,0,0,0
+1237,Conway Christian School,1200 Medlen Pkwy,Conway,< 5,0,0,0
+1238,John Paul II Catholic School,4211 Okatie Hwy,Ridgeland,< 5,0,0,0
+1239,Lake Pointe Academy,3168 Hands Mill Hwy,York,< 5,0,< 5,0
+1240,Laurence Manning Academy,1154 Academy Dr,Manning,< 5,0,0,0
+1241,LTP Scholars,1513 Mathis Ferry Rd,Mt. Pleasant,< 5,0,0,0
+1242,Montessori School of Pawleys Island,236 Commerce Dr,Pawleys Island,< 5,0,0,0
+1243,Oconee Christian Academy,150 His Way Cir,Seneca,< 5,0,0,0
+1244,Copeland Academy,243 Allison Dr,Gaffney,< 5,0,0,0
+1245,South Pointe Christian School,28981 SC-9,Pageland,< 5,0,0,0
+1246,Spartanburg Christian Academy,8740 Asheville Hwy,Spartanburg,< 5,0,< 5,0
+1247,St. Gregory the Great Catholic School,38 Saint Gregory Dr,Bluffton,< 5,0,0,0
+1248,The Learning Center,1014 State Rd 329,Chester,< 5,0,0,0
+1249,Addlestone Hebrew Academy,1675 Raoul Wallenberg Blvd,Charleston,0,0,0,0
+1250,St. Joseph's Catholic School,100 St Joseph S Dr,Greenville,0,0,0,0
+1251,Town Creek Christian Academy,250 Town Creek Rd,Aiken,0,0,0,0
+1252,Mead Hall Episcopal School,619 Barnwell Ave NW,Aiken,< 5,0,< 5,0
+1253,St Mary Help of Christians Catholic School,118 York St SE,Aiken,0,0,0,0
+1254,Thomas Heyward Academy,1727 Malphrus Rd,Ridgeland,< 5,0,0,0
+1255,St. Francis Catholic School,45 Beach City Rd,Hilton Head,0,0,0,0
+1256,Arrows Academy,420 Kitti Wake Dr,West Columbia,< 5,0,< 5,0
+1257,Divine Redeemer Catholic School,1104 Fort Drive,Hanahan,< 5,0,< 5,0
+1258,Trident Academy,1455 Wakendaw Rd,Mt. Pleasant,0,0,0,0
+1259,Clemson Montessori School,207 Pendleton Rd,Clemson,< 5,0,< 5,0
+1260,Oakbrook Preparatory School,190 Lincoln School Rd,Spartanburg,< 5,0,< 5,0
+1261,James Island Christian School,15 Crosscreek Dr,Charleston,< 5,0,< 5,0
+1262,Oakwood Christian School,304 Pearman Dairy Rd,Anderson,< 5,0,< 5,0
+1263,Crown Leadership Academy,1455 Wakendaw Rd,Mt. Pleasant,< 5,0,< 5,0
+1264,St. Mary's Catholic School,101 Hampton Ave,Greenville,0,0,0,0
+1265,,,,0,0,0,0
+1266,Florence Christian School,2308 S. Irby Street,Florence,< 5,0,< 5,0
+1267,Foothills Christian School,126 Robin Road,Westminster,< 5,< 5,< 5,< 5
+1268,Foundation Christian School,1605 Old State Road,Gaston,0,0,0,0
+1269,Glenforest School,1041 Harbor Drive,W. Columbia,0,0,0,0
+1270,Second Baptist Christian Preparatory School,353 Laurens Street N. W. ,Aiken,0,0,0,0
+1271,Grace Christian School,416 Denham Avenue,W. Columbia,0,0,0,0
+1272,Woodmont Middle,325 North Flat Rock Road,Piedmont,0,0,0,0
+1273,South Aiken Baptist Christian School,980 Dougherty Road,Aiken,0,0,0,0
+1274,Grace Child Development Center,639 Georgia Avenue,N. Augusta ,< 5,0,< 5,0
+1275,Woodruff Elementary,915 Cross Anchor Road,Woodruff,< 5,0,< 5,0
+1276,Woodruff High,710 Cross Anchor Highway,Woodruff,< 5,< 5,< 5,0
+1277,Woodruff Middle,205 S. J. Workman Highway,Woodruff,< 5,< 5,< 5,< 5
+1278,Woodruff Primary,200 Lucy P. Edwards Road,Woodruff,0,0,0,0
+1279,Wren Elementary,226 Roper Road,Piedmont,< 5,0,< 5,0
+1280,Wren High,905 Wren School Road,Piedmont,< 5,0,< 5,0
+1281,Wren Middle,1010 Wren School Road,Piedmont,< 5,< 5,< 5,< 5
+1282,Wright Middle,111 Highway 71,Abbeville,0,0,0,0
+1283,York Comprehensive High,275 East Alexander Love Highway,York,0,0,0,0
+1284,York Intermediate,1280 Johnson Road,York,0,0,0,0
+1285,Wright Elementary,1136 Wright School Road,Belton,0,< 5,0,< 5
+1286,York Middle,1010 DeVinney Road,York,0,0,0,0
+1287,York Preparatory Academy,1047 Golden Gate Court,Rock Hill,0,0,0,0
+1288,York Road Elementary,2254 West Main Street,Rock Hill,0,0,0,0
+1289,Youth Leadership Academy,698 Concord Church Road,Pickens,0,0,0,0
+1290,Abiding Peace Academy,401 Batesville Road,Simpsonville,0,0,0,0
+1291,Abundant Life Christian School ,630 Farrs Bridge Road,Greenville,0,0,0,0
+1292,Aiken First Baptist Church Preschool,120 Chesterfield St. N,Aiken,0,0,0,0
+1293,Aldersgate Child Development Center,7 Shannon Drive,Greenville,0,0,0,0
+1294,All Saints Classical Christian School,3560 Kings River Road,Pawleys Island,0,0,0,0
+1295,All Saints Episcopal Day School,1425 Cherokee Road,Florence,0,< 5,0,< 5
+1296,Al-Sabeel Academy,1601 Clement Road,Greer,0,0,0,0
+1297,Beaufort Christian School,378 Parris Island Gateway,Beaufort,0,0,0,0
+1298,Ben Lippen School,7401 Monticello Road,Columbia,< 5,< 5,< 5,< 5
+1299,Bob Jones Academy,1700 Wade Hampton Blvd.,Greenville,< 5,0,0,0
+1300,Bread of Life Christian Academy,6149 Ford Taylor Road,Conway,0,0,0,0
+1301,Calhoun Academy,81 Academy Road,St. Matthews,0,0,0,0
+1302,Calvary Christian School,4511 Dick Pond Road,Myrtle Beach,< 5,0,< 5,0
+1303,Carolina Academy,351 N. Country Club Road,Lake City,< 5,< 5,< 5,< 5
+1304,Carolina International Preparatory School,212 Roper Mountain Road Extension,Greenville,< 5,0,0,0
+1305,"Center for Learning, Inc.",2729 Covenant Road,Columbia,0,0,0,0
+1306,Central Presbyterian Preschool,1404 North Boulevard,Anderson,0,0,0,0
+1307,Christian Academy of Myrtle Beach,291 Ronald McNair Blvd.,Myrtle Beach,0,< 5,0,0
+1308,Charleston Day School,15 Archdale Street,Charleston,0,0,0,0
+1309,Clarendon Hall,1140 South Dukes Street,Orangeburg,< 5,0,0,0
+1310,Colonial Christian Academy,1110 Meeting Street,W. Columbia,0,0,0,0
+1311,Columbia Adventist Academy,241 Riverchase Way,Lexington,0,0,0,0
+1312,Coastal Christian Preparatory,681 McCants Drive,Mt. Pleasant,0,< 5,0,0
+1313,Comenius School for Creative Leadership,8160 Regent Parkway,Fort Mill,0,0,0,0
+1314,Colleton Prep Academy,"165 Academy Road, PO Box 1426",Walterboro,6,0,5,0
+1315,Covenant Classical Christian School,3120 Covenant Road,Columbia,0,0,0,0
+1316,Westview Elementary,100 Westview Boulevard,Goose Creek,0,0,0,0
+1317,Dorchester Academy,234 Academy Road,St. George,0,0,0,0
+1318,Easley Christian School,461 Saco Lowell Road,Easley,0,0,0,0
+1319,Eddlemon Adventist School,"1217 John B. White, Sr. Blvd",Spartanburg,< 5,0,< 5,0
+1320,Camden Military Academy,520 Hwy. #1 North,Camden,0,0,0,0
+1321,Cutler Jewish Day School,5827A N. Trenholm Road,Columbia,0,0,0,0
+1322,Einstein Academy,847 Cleveland Street,Greenville,0,0,0,0
+1323,Faith Christian Academy,220 Greene Street,Cheraw,0,0,0,0
+1324,Faith Christian Academy,7005 Friendfield Road,Effingham,0,0,0,0
+1325,Westview Middle,101 Westview Boulevard,Goose Creek,0,0,0,0
+1326,First Baptist of Charleston,48 Meeting Street,Charleston,0,0,0,0
+1327,First Baptist Weekday,602 Georgia Avenue,N. Augusta ,0,0,0,0
+1328,First Presbyterian Academy at Shannon Forest,829 Garlington Road,Greenville,0,0,0,0
+1329,Five Oaks Academy,1101 Jonesville Road,Simpsonville,0,0,0,0
+1330,Wando High,1000 Warrior Way,Mt. Pleasant,< 5,0,< 5,0
+1331,South Aiken Presbyterian Kindergarten,1711 Whiskey Road,Aiken,0,0,0,0
+1332,St. James Methodist Kindergarten,213 N. Lanford Road,Spartanburg,0,0,0,0
+1333,Whitesville Elementary,324 Gaillard Road,Moncks Corner,0,0,0,0
+1334,St. John's UMC SEED,104 Newberry Street NW,Aiken,0,0,0,0
+1335,Sumter Christian School,420 S. Pike W,Sumter,0,0,0,0
+1336,Sundrops Montessori School,955 Houston Northcutt Blvd.,Mt. Pleasant,< 5,0,< 5,0
+1337,Tabernacle Christian School,3931 White Horse Road,Greenville,0,0,0,0
+1338,Tara Hall School,510 Tara Hall Road,Georgetown,0,0,0,0
+1339,Temple Christian Academy,1660 N. Governor Williams Hwy.,Darlington,0,0,0,0
+1340,Temple Christian Academy,2905 Standridge Road,Anderson,0,0,0,0
+1341,Thomas Hart Academy,852 Flinns Road,Hartsville,0,0,0,0
+1342,The Charleston Christian School,2014 Bees Ferry Road,Charleston,0,0,0,0
+1343,Trinity Christian Academy,607 W. Ashland Avenue,Andrews,0,0,0,0
+1344,The Cooper School,13 Oakdale Place,Charleston,0,0,0,0
+1345,Trinity Day School,226 W. Liberty Street,Sumter,0,0,0,0
+1346,UMC of the Covenant Child Development Center,9020 Asheville Highway,Spartanburg,0,0,0,0
+1347,Union Christian Day School,331 Meansville Road,Union,0,0,0,0
+1348,Union Methodist Church Preschool,7582 Woodrow Street,Irmo,0,0,0,0
+1349,W. Wyman King Academy,1046 Sardis Road,Batesburg,0,0,0,0
+1350,Walnut Grove Christian School,1036 Maxwell Mill Road,Fort Mill,0,0,0,0
+1351,Westgate Christian School,1990 Old Reidville Road,Spartanburg,0,0,0,0
+1352,University School of the Lowcountry,690 Coleman Blue,Mt. Pleasant,0,0,0,0
+1353,Washington St. Elementary,325 Washington Street,Hartsville,0,0,0,0
+1354,Westminster Catawba Christian School,2650 India Hook Road,Rock Hill,< 5,0,< 5,0
+1355,Wateree Elementary,424 Wildwood Lane,Lugoff,0,0,0,0
+1356,Westminster Day School,309 Fernwood Drive,Spartanburg,0,0,0,0
+1357,Waterloo Elementary,10457 Highway 221 South,Waterloo,0,< 5,0,0
+1358,Wilson Hall,520 Wilson Hall Road,Sumter,< 5,0,< 5,0
+1359,Waterway Elementary,700 Sandridge Road,Little River,0,0,0,0
+1360,St. John Neumann Catholic School,721 Polo Rd,Columbia,0,0,0,0
+1361,Watkins-Nance Elementary,2525 Barhamville Road,Columbia,0,0,0,0
+1362,Winfield Heights Christian Kindergarten ,315 Chester Street,Williston,0,0,0,0
+1363,Webber School,140 Webber School Road,Eastover,0,0,0,0
+1364,Sandhills School,1500 Hallbrook Dr,Columbia,0,0,0,0
+1365,Welcome Elementary,36 East Welcome Road,Greenville,0,0,0,0
+1366,Timmerman School,2219 Atascadero Dr,Columbia,0,0,0,0
+1367,West End Elementary,314 Pelzer Highway,Easley,< 5,0,< 5,0
+1368,Ashley Hall,172 Rutledge Ave,Charleston,< 5,0,< 5,0
+1369,West Florence High,221 North Beltline Drive,Florence,0,< 5,0,< 5
+1370,The Charleston Catholic School,888 King St,Charleston,0,0,0,0
+1371,Wellford Acad of Sci & Tech,864 Syphrit Road,Wellford,< 5,< 5,0,< 5
+1372,Bishhop England High School,363 Seven Farms Drive,Daniel Island,0,0,0,0
+1373,West Ashley High,4060 West Wildcat Boulevard,Charleston,0,0,0,0
+1374,The Kings Academy,1015 S Ebenezer Rd,Florence,< 5,0,< 5,0
+1375,West Hartsville Elementary,214 Clyde Road,Hartsville,0,0,0,0
+1376,Laurens Academy,3515 SC-49,Laurens,< 5,0,< 5,0
+1377,West Lee Elementary,55 West Lee School Road,Rembert,0,0,0,0
+1378,Christ Church Episcopal School,245 Cavalier Dr,Greenville,< 5,0,< 5,0
+1379,West Market Sch of Early Ed,1909 Dobbins Bridge Road,Anderson,0,0,0,0
+1380,West Oak Middle,501 Westminster Highway,Westminster,0,< 5,0,< 5
+1381,West Pelzer Elementary,10 West Stewart Street,West Pelzer,< 5,0,< 5,0
+1382,West View Elementary,400 Oak Grove Road,Spartanburg,< 5,< 5,< 5,< 5
+1383,West-Oak High,130 Warrior Lane,Westminster,< 5,0,< 5,0
+1384,Westcliffe Elementary,105 Eastbourne Road,Greenville,0,0,0,0
+1385,Westminster Elementary,206 Hamilton Street,Westminster,0,0,0,0
+1386,Westside High,806 Pearman Dairy Road,Anderson,< 5,0,< 5,0
+1387,St. Stephen Elementary,1053 Russellville Road,St. Stephen,0,0,0,0
+1388,St. Stephen Middle,225 Carolina Avenue,St. Stephen,0,0,0,0
+1389,Westview Middle,1410 West Alexander Road,Greenwood,< 5,0,< 5,0
+1390,Stratford High,951 Crowfield Boulevard,Goose Creek,0,0,0,0
+1391,West Ashley Middle,1776 Kennerty Drive,Charleston,0,0,0,0
+1392,Westwood Elementary,124 Highway 28 Bypass,Abbeville,0,0,0,0
+1393,Westwood High,180 Turkey Farm Road,Blythewood,0,0,0,0
+1394,Whale Branch Early College Hi,169 Detour Road,Seabrook,0,0,0,0
+1395,Whale Branch Elementary,15 Stuart Point Road,Seabrook,0,0,0,0
+1396,Whale Branch Middle,2009 Trask Parkway,Seabrook,0,0,0,0
+1397,White Knoll Elementary,132 White Knoll Way,West Columbia,0,0,0,0
+1398,White Knoll High,5643 Platt Springs Road,Lexington,< 5,0,< 5,0
+1399,White Knoll Middle,116 White Knoll Way,West Columbia,0,0,0,0
+1400,Whitehall Elementary,702 Whitehall Road,Anderson,0,< 5,0,< 5
+1401,Timberland High,1418 Gravel Hill Road,St. Stephen,0,0,0,0
+1402,Whittaker Elementary,790 Whittaker Parkway,Orangeburg,0,0,0,0
+1403,Whittemore Park Middle,1808 Rhue Street,Conway,0,< 5,0,< 5
+1404,Wilder Elementary,975 South Main Street,Sumter,0,0,0,0
+1405,William J. Clark Middle,919 Bennett Avenue,Orangeburg,0,0,0,0
+1406,William M. Reeves Elementary,1003 DuBose School Road,Summerville,0,0,0,0
+1407,William Memorial Elementary,290 South Metts Street,St. George,0,< 5,0,< 5
+1408,Williams Middle,1119 North Irby Street,Florence,< 5,0,< 5,0
+1409,Willow Drive Elementary,26 Willow Drive,Sumter,0,0,0,0
+1410,Williston-Elko High,12233 Main Street,Williston,0,0,0,0
+1411,Williston-Elko Middle,12333 Main Street,Williston,0,0,0,0
+1412,Wilson High,1411 Old Marion Highway,Florence,0,< 5,0,< 5
+1413,Windsor Elementary,9800 Dunbarton Drive,Columbia,0,< 5,0,< 5
+1414,Windsor Hill Arts Infused Elem,8600 William Moultrie Drive,North Charleston,0,0,0,0
+1415,Woodfields Elementary,1032 Emerald Road,Greenwood,< 5,< 5,< 5,< 5
+1416,Woodland Elementary,1730 Gibb Shoals Road,Greer,0,0,0,0
+1417,Woodland Heights Elem,1216 John B. White  Sr. Boulevard,Spartanburg,< 5,0,< 5,0
+1418,Camperdown Academy,67 Verdae Commons Drive,Greenville,< 5,0,< 5,0
+1419,Woodland High,4128 Highway 78,Dorchester,0,< 5,0,0
+1420,Whitmire Community Sch Elem,2597 SC Highway 66,Whitmire,0,0,0,0
+1421,Woodmont High,2831 West Georgia Road,Piedmont,< 5,0,< 5,0
+1422,Cardinal Newman School,2945 Apline Rd,Columbia,< 5,0,< 5,0
+1423,Porter Gaud School,300 Albermarle Rd,Charleston,< 5,0,< 5,0
+1424,Edge Christian Academy,3222 Platt Springs Rd,West Columbia,0,0,0,0
+1425,Trinity-Byrnes Collegiate School,5001 Hoffmeyer Rd,Darlington,< 5,0,< 5,0
+1426,Emmanuel Christian School,1001 N Marquis Hwy,Hartsville,< 5,0,< 5,0
+1427,St. Michael Catholic School,542 Cypress Ave,Murrells Inlet,0,0,0,0
+1428,St. Andrew Catholic School,3601 N Kings Hwy,Myrtle Beach,< 5,0,0,0
+1429,Saint Joseph Catholic School,3700 Devine St,Columbia,0,0,0,0
+1430,Hilton Head Preparatory,8 Fox Grape Rd,Hilton Head,0,0,0,0
+1431,Hilton Head Christian Academy,55 Gardner Dr,Hilton Head,< 5,0,0,0
+1432,Beaufort Academy,240 Sams Point Rd,Beaufort,0,0,0,0
+1433,Cross Schools,495 Buckwalter Pkwy,Bluffton,0,0,0,0
+1434,Blessed Sacrament Catholic School,7 St Teresa Dr,Charleston,0,0,0,0
+1435,Northside Christian Academy,4347 Sunset Blvd,Lexington,0,0,0,0
+1436,Grace Christian School,1375 Tory Hill Road,Loris,0,0,0,0
+1437,Greenville Classical Academy,2519 Woodruff Road,Simpsonville,0,0,0,0
+1438,Greenwood Christian School,2026 Woodlawn Road,Greenwood,0,0,0,0
+1439,Hammond School,854 Galway Lane,Columbia,< 5,0,< 5,0
+1440,Hampton Park Christian School,875 State Park Road,Greenville,0,0,0,0
+1441,Haynsworth Private School,228 E. Park Avenue,Greenville,0,0,0,0
+1442,Heathwood Hall Episcopal School,3000 S. Beltline Blvd,Columbia,0,0,0,0
+1443,Heritage Academy,11 New Orleans Road,Hilton Head,0,0,0,0
+1444,Heritage Christian Academy,649 Barr Road,Lexington,0,0,0,0
+1445,Hidden Treasure Christian School,500 West Lee Road,Taylors,0,0,0,0
+1446,Immanuel Lutheran School,2820 Woodruff Road,Simpsonville,0,0,0,0
+1447,Jefferson Davis Academy,5061 Hilda Rd,Blackville,15,< 5,8,0
+1448,Kelleytown Baptist Kindergarten,2609 Kelleytown Road,Hartsville,< 5,0,< 5,0
+1449,Lakeview Christian School,107 Mauldin Lake Road,Pickens,0,0,0,0
+1450,Legacy Christian Academy,2576 Bees Creek Road,Ridgeland,0,0,0,0
+1451,Lowcountry Preparatory School,300 Blue Stem Drive,Pawleys Island,< 5,0,0,0
+1452,Marantha Christian School,2624 W. Palmetto Street,Florence,< 5,0,< 5,0
+1453,Marlboro Academy,1035 Bennettsville Firetower Road,Bennettsville,< 5,0,0,0
+1454,Mason Preparatory School,56 Hasley Blvd,Charleston,0,0,0,0
+1455,Mitchell Road Christian Academy,207 Mitchell Road,Greenville,< 5,0,< 5,0
+1456,Montessori Academy of Spartanburg ,384 South Spring Street,Spartanburg,< 5,0,< 5,0
+1457,Montessori Early Learning Center & School of the Arts,1101 Balsam Road,Columbia,0,0,0,0
+1458,Montessori School of Anderson,280 Sam McGee Road,Anderson,0,0,0,0
+1459,Macfeat Laboratory School,41 Withers ,Rock Hill,0,0,0,0
+1460,"Montessori School of Columbia, Inc.",411 South Maple Street,Columbia,0,0,0,0
+1461,Montessori School of Florence ,510 W. Palmetto Street,Florence,0,0,0,0
+1462,Montessori School of Johns Island,3634 Mary Ann Point Road,Johns Island,0,0,0,0
+1463,Montessori West Christian School,8800 Warren H. Abernathy Highway,Spartanburg,< 5,< 5,< 5,0
+1464,Montessori School of Mauldin,205B East Butler Road,Mauldin,0,0,0,0
+1465,Mount Pleasant Presbyterian Church Learning Center,302 Hibben Street,Mt. Pleasant,0,0,0,0
+1466,New Covenant School,303 Simpson Road,Anderson,0,0,0,0
+1467,New Haven Christian School,463 Zion Road,Walhalla,0,0,0,0
+1468,Newberry Academy,2055 Smith Road,Newberry,< 5,0,< 5,0
+1469,New Prospect Christian School,4221 Cheminally Road,Pamplico,< 5,0,0,0
+1470,North Myrtle Beach Christian School,9535 SC Hwy 90,Longs,0,0,0,0
+1471,North Walterboro Christian Academy,2177 Jefferies Highway,Walterboro,0,0,0,0
+1472,Orangeburg Preparatory Schools,2651 North Road,Orangeburg,< 5,0,< 5,0
+1473,Owens Christian Academy,3377 Ridgeway Street,N. Charleston,0,0,0,0
+1474,Palmetto Christian Academy,361 Egypt Road,Mt. Pleasant,0,0,0,0
+1475,Palmetto Christian Academy of Greenwood,1615 Woodlawn Road,Greenwood,0,0,0,0
+1476,Pawleys Island Christian Academy,10304 Ocean Highway,Pawleys Island,0,< 5,0,0
+1477,Pine Grove,1500 Chestnut Road,Elgin,0,< 5,0,0
+1478,Pinewood Preparatory School,1114 Orangeburg Road,Summerville,< 5,0,0,0
+1479,Richard Winn Academy,"1796 Old Chester Road, PO Box 390",Winnsboro,0,0,0,0
+1480,Westview Primary,98 Westview Boulevard,Goose Creek,0,0,0,0
+1481,Risen Christ Christian Academy,10595 N. Kings Highway,Myrtle Beach,0,0,0,0
+1482,Robert E. Lee Academy,630 Cousar Street,Bishopville,< 5,0,0,0
+1483,Saint John Preschool,3404 West Beltline Blvd.,Columbia,0,0,0,0
+1484,Shiloh Christian School,2604 Hwy 184,Due West,0,0,0,0
